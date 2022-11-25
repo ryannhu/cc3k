@@ -1,0 +1,236 @@
+http://www.plantuml.com/plantuml/uml/SyfFKj2rKt3CoKnELR1Io4ZDoSa70000
+
+@startuml UML
+skinparam linetype ortho  
+' left to right direction
+skinparam groupInheritance 0
+scale max 1920 width 
+scale max 1080 height
+
+package "CC3K" #White {
+        Title UML Diagram
+        class Character {
+            - hp : Integer
+            - atk : Integer
+            - def : Integer
+            - xPos : Integer
+            - yPos : Integer
+            - symbol : Character
+
+
+            + setHp(int) : Void
+            + setAtk(int) : Void
+            + setDef(int) : Void
+            + setX(int) : Void
+            + setY(int) : Void
+            + getHp() : Integer
+            + getAtk() : Integer
+            + getDef() : Integer
+            + getX() : Integer
+            + getY() : Integer
+            + getSymbol() : Character
+            + move(Integer, Integer) : Void
+            + attack(Character) : Void
+            + takeDamage(Integer) : Void
+            + isAlive() : Boolean
+        }
+        
+
+            Character <|-- Player
+            class Player {
+                - gold : Integer
+                - hasBarrierSuit : Bool
+                
+                + addGold(Integer)
+                + getGold() : Integer
+                + useGold() : void
+                + updateStats()  : void
+                + usePotion(Potion) : void
+                + getSymbol() : Character
+
+            }
+
+            Player <|-down- Human
+            class Human {
+
+            }
+            
+            Player <|-down- Dwarf
+            class Dwarf {
+                + addGold() : Integer
+            }
+
+            Player <|-down- Elf
+            class Elf {
+                + updateStats() : void 
+            }
+
+            Player <|-down- Orc
+            class Orc {
+                + addGold() : Integer
+            }
+        
+        
+            Player <|-- Decorator
+            class Decorator {
+                # component : Player
+                + updateStats();          
+            }
+            together {
+                Decorator <|-- BoostAtk
+                Class BoostAtk {
+                    + updateStats() : Void
+                }
+
+                Decorator <|-- WoundAtk
+                Class WoundAtk{
+                    + updateStats() : Void
+                }
+
+                Decorator <|-- BoostDef
+                Class BoostDef {
+                    + updateStats() : Void
+                }
+                Decorator <|-- WoundDef
+                Class WoundDef {
+                    + updateStats() : Void
+                }
+            }
+
+            Character <|-- Enemy
+            class Enemy {
+                - hostile : bool
+
+                + isHostile() : bool
+                + makeHostile() : void
+            }
+
+            Enemy <|-- Vampire
+            Class Vampire {
+                + getSymbol() : Character
+            }
+
+            Enemy <|-- Werewolf
+            Class Werewolf {
+                + getSymbol() : Character
+            } 
+
+            Enemy <|-- Goblin
+            Class Goblin {
+                + getSymbol() : Character
+            }
+
+            Enemy <|-- Merchant
+            Class Merchant {
+                + getSymbol() : Character
+            }
+
+            Dragon -up-|>  Enemy
+            Dragon o-- Treasure
+            Class Dragon { 
+                - booty : *Treasure
+
+                + getSymbol() : Character
+                + getHoard() : Hoard
+                + move() : void        
+                + rewardAmount() : Integer
+                + takeDamage(Integer) : Void   
+            }
+
+            Enemy <|-- Phoenix
+            Class Phoenix { 
+                + getSymbol() : Character
+            }
+
+            Troll -up-|>  Enemy
+            Class Troll{ 
+                + getSymbol() : Character
+            }
+
+            Class Merchant { 
+                - hostile : Boolean
+                + isHostile() : Boolean
+                + makeHostile() : Boolean
+                + rewardAmount() : Integer
+                + getSymbol() : Character
+            }
+        
+
+
+        class Item { 
+            - xPos : Integer
+            - yPos : Integer
+            - symbol : Character
+            - guarded : Boolean
+            + getX() : Integer
+            + getY() : Integer
+            + getSymbol() : Character = 0
+            + withinRange(Character) : Boolean
+            + isGuarded() : Boolean
+            + setUnguarded() : Void
+
+        }
+
+        Item <|-down- Treasure
+        class Treasure {
+            -goldAmount : Integer
+            + getSymbol() : Character
+            + getGoldAmount() : Integer            
+        }
+
+        Item <|-down- Potion
+        class Potion {
+            - abilitiesVisible : Boolean
+            + consume() : void
+            + getSymbol() : Character
+        }
+
+        Item <|-down- Compass
+        class Compass {
+            + getSymbol() : Character
+        }
+        Item <|-down- BarrierSuit
+        class BarrierSuit {
+            + getSymbol() : Character
+        }
+    
+
+
+
+        Game *-[norank]- Floor
+        Game *-[norank]- Player
+
+        class Game  {
+            - floor : *Floor
+            - barrierSuitFloor  : Integer
+            - playa : Player *
+            + init(race) : Void
+            + generateFloor() : Floor
+            + move(integer, integer) : Void
+            + attack() : Void
+            + usePotion(): Void
+            + restart() : Void
+            + quit() : Void
+            + operator << (ostream&, Game) : ostream&
+        }
+
+        Floor o-- Enemy
+        Floor o-- Item
+        class Floor {
+            - stairRoomNumber : Integer
+            - visibleStairs : Boolean
+            - items : Vector<Item>
+            - enemies : Vector<Character>
+            + generateFloor() : Void
+            + spawnPlayer(Player) : Void
+            + spawnStairs() : Void
+            + spawnItems() : Void    
+            + spawnEnemies() : Void
+            + generateBarrierSuit() : Void
+            + operator << (ostream&, Floor) : ostream& 
+        }
+
+
+}
+
+@enduml

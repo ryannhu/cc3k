@@ -1,0 +1,10 @@
+{
+    "makefile.extensionOutputFolder": "./.vscode",
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "/u2/tzaryab/cs246/s22/a5/src",
+            "binaryPath": "/u2/tzaryab/cs246/s22/a5/src/cc3k",
+            "binaryArgs": []
+        }
+    ]
+}

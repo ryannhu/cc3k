@@ -1,0 +1,926 @@
+make all --print-data-base --no-builtin-variables --no-builtin-rules --question
+make: *** No rule to make target 'all'.  Stop.
+
+# GNU Make 4.2.1
+# Built for x86_64-pc-linux-gnu
+# Copyright (C) 1988-2016 Free Software Foundation, Inc.
+# License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>
+# This is free software: you are free to change and redistribute it.
+# There is NO WARRANTY, to the extent permitted by law.
+
+# Make data base, printed on Wed Jul 20 20:15:24 2022
+
+# Variables
+
+# automatic
+<D = $(patsubst %/,%,$(dir $<))
+# automatic
+?F = $(notdir $?)
+# default
+.SHELLFLAGS := -c
+# environment
+XDG_SESSION_CLASS = user
+# environment
+VSCODE_AGENT_FOLDER = /u2/tzaryab/.vscode-server
+# environment
+XDG_SESSION_TYPE = tty
+# environment
+VSCODE_LOG_NATIVE = false
+# automatic
+?D = $(patsubst %/,%,$(dir $?))
+# automatic
+@D = $(patsubst %/,%,$(dir $@))
+# automatic
+@F = $(notdir $@)
+# default
+MAKE_VERSION := 4.2.1
+# makefile
+CURDIR := /u2/tzaryab/cs246/s22/a5/src
+# makefile
+SHELL = /bin/sh
+# environment
+VSCODE_NLS_CONFIG = {"locale":"en","availableLanguages":{}}
+# environment
+_ = /u2/tzaryab/.vscode-server/bin/507ce72a4466fbb27b715c3722558bb15afa9f48/node
+# makefile (from 'orc.d', line 1)
+MAKEFILE_LIST :=  Makefile werewolf.d phoenix.d vampire.d troll.d enemy.d merchant.d goblin.d compass.d treasure.d barriersuit.d potion.d factory.d main.d game.d floor.d chamber.d character.d decorator.d item.d player.d wounddef.d woundatk.d boostatk.d boostdef.d dwarf.d human.d elf.d orc.d
+# 'override' directive
+GNUMAKEFLAGS := 
+# makefile (from 'Makefile', line 2)
+CXXFLAGS = -std=c++14 -g -Werror=vla -Wall -MMD
+# environment
+XDG_DATA_DIRS = /usr/local/share:/usr/share:/var/lib/snapd/desktop
+# environment
+DBUS_SESSION_BUS_ADDRESS = unix:path=/run/user/12888/bus
+# environment
+VSCODE_VERBOSE_LOGGING = true
+# environment
+LESSOPEN = | /usr/bin/lesspipe %s
+# environment
+VSCODE_CWD = /u2/tzaryab
+# environment
+SSH_CONNECTION = 199.249.111.174 54890 129.97.167.51 22
+# environment
+PATH = /u2/tzaryab/.vscode-server/bin/507ce72a4466fbb27b715c3722558bb15afa9f48/bin:/u/cs246/pub:/u2/tzaryab/bin:/u2/tzaryab/.vscode-server/bin/507ce72a4466fbb27b715c3722558bb15afa9f48/bin:/u/cs246/pub:/u2/tzaryab/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+# environment
+XDG_RUNTIME_DIR = /run/user/12888
+# environment
+VSCODE_LOG_STACK = false
+# environment
+VSCODE_IPC_HOOK_CLI = /run/user/12888/vscode-ipc-1156f754-7486-420e-b30b-ca6dd472fa23.sock
+# default
+.FEATURES := target-specific order-only second-expansion else-if shortest-stem undefine oneshell archives jobserver output-sync check-symlink load
+# environment
+LS_COLORS = 
+# automatic
+%F = $(notdir $%)
+# environment
+VSCODE_PIPE_LOGGING = true
+# environment
+PWD = /u2/tzaryab/cs246/s22/a5/src
+# default
+.LOADED := 
+# automatic
+*D = $(patsubst %/,%,$(dir $*))
+# makefile (from 'Makefile', line 4)
+ITEMS = compass.o treasure.o barriersuit.o potion.o
+# environment
+VSCODE_AMD_ENTRYPOINT = vs/server/remoteExtensionHostProcess
+# environment
+HOME = /u2/tzaryab
+# environment
+LESSCLOSE = /usr/bin/lesspipe %s %s
+# environment
+LOGNAME = tzaryab
+# environment
+APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL = true
+# automatic
++F = $(notdir $+)
+# makefile (from 'Makefile', line 7)
+DEPENDS = ${OBJECTS:.o=.d}
+# environment
+VSCODE_HANDLES_UNCAUGHT_ERRORS = true
+# automatic
+^D = $(patsubst %/,%,$(dir $^))
+# environment
+MAKELEVEL := 0
+# default
+MAKE = $(MAKE_COMMAND)
+# default
+MAKECMDGOALS := all
+# environment
+SHLVL = 1
+# makefile (from 'Makefile', line 8)
+EXEC = cc3k
+# environment
+XDG_SESSION_ID = 79055
+# environment
+USER = tzaryab
+# makefile
+.DEFAULT_GOAL := cc3k
+# automatic
+%D = $(patsubst %/,%,$(dir $%))
+# default
+MAKE_COMMAND := make
+# default
+.VARIABLES := 
+# automatic
+*F = $(notdir $*)
+# environment
+LANGUAGE = en_CA:
+# makefile
+MAKEFLAGS = pqrR
+# environment
+MFLAGS = -pqrR
+# environment
+SSH_CLIENT = 199.249.111.174 54890 22
+# automatic
++D = $(patsubst %/,%,$(dir $+))
+# environment
+BROWSER = /u2/tzaryab/.vscode-server/bin/507ce72a4466fbb27b715c3722558bb15afa9f48/bin/helpers/browser.sh
+# default
+MAKEFILES := 
+# automatic
+<F = $(notdir $<)
+# makefile (from 'Makefile', line 1)
+CXX = g++
+# makefile (from 'Makefile', line 3)
+ENEMIES = werewolf.o phoenix.o vampire.o troll.o enemy.o merchant.o goblin.o
+# environment
+EDITOR = vi
+# environment
+LC_ALL = C
+# automatic
+^F = $(notdir $^)
+# default
+SUFFIXES := 
+# default
+.INCLUDE_DIRS = /usr/include /usr/local/include /usr/include
+# environment
+VSCODE_INJECT_NODE_MODULE_LOOKUP_PATH = /u2/tzaryab/.vscode-server/bin/507ce72a4466fbb27b715c3722558bb15afa9f48/remote/node_modules
+# default
+.RECIPEPREFIX := 
+# makefile (from 'Makefile', line 6)
+OBJECTS = ${ENEMIES} ${ITEMS}  factory.o main.o game.o floor.o chamber.o character.o decorator.o item.o player.o wounddef.o woundatk.o boostatk.o boostdef.o dwarf.o human.o elf.o orc.o
+# default
+MAKE_HOST := x86_64-pc-linux-gnu
+# environment
+LANG = C
+# environment
+VSCODE_EXTHOST_WILL_SEND_SOCKET = true
+# environment
+MOTD_SHOWN = pam
+# variable set hash-table stats:
+# Load=79/1024=8%, Rehash=0, Collisions=10/168=6%
+
+# Pattern-specific Variable Values
+
+# No pattern-specific variable values.
+
+# Directories
+
+# . (device 58, inode 13194163224391): 122 files, no impossibilities.
+
+# 122 files, no impossibilities in 1 directories.
+
+# Implicit Rules
+
+# No implicit rules.
+
+# Files
+
+# Not a target:
+wounddef.d:
+#  Implicit rule search has been done.
+#  Last modified 2022-07-19 11:42:48.173607764
+#  File has been updated.
+#  Successfully updated.
+
+woundatk.o: woundatk.cc woundatk.h decorator.h player.h character.h
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+boostatk.h:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+boostdef.o: boostdef.cc boostdef.h decorator.h player.h character.h
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+goblin.h:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+enemy.o: enemy.cc enemy.h character.h
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+dwarf.d:
+#  Implicit rule search has been done.
+#  Last modified 2022-07-16 14:18:41.860367935
+#  File has been updated.
+#  Successfully updated.
+
+# Not a target:
+troll.h:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+human.h:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+chamber.cc:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+item.d:
+#  Implicit rule search has been done.
+#  Last modified 2022-07-16 13:47:40.237640032
+#  File has been updated.
+#  Successfully updated.
+
+compass.o: compass.cc compass.h item.h character.h
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+all:
+#  Command line target.
+#  Implicit rule search has been done.
+#  File does not exist.
+#  File has not been updated.
+
+# Not a target:
+character.cc:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+player.cc:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+decorator.h:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+vampire.d:
+#  Implicit rule search has been done.
+#  Last modified 2022-07-16 13:47:40.35764021
+#  File has been updated.
+#  Successfully updated.
+
+factory.o: factory.cc floor.h item.h character.h enemy.h player.h factory.h coordinates.h dwarf.h human.h orc.h elf.h vampire.h goblin.h troll.h merchant.h phoenix.h potion.h werewolf.h dragon.h treasure.h
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+woundatk.cc:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+barriersuit.d:
+#  Implicit rule search has been done.
+#  Last modified 2022-07-16 13:47:40.069639782
+#  File has been updated.
+#  Successfully updated.
+
+# Not a target:
+ 
+orc.d:
+#  Implicit rule search has been done.
+#  Last modified 2022-07-16 14:19:24.424430108
+#  File has been updated.
+#  Successfully updated.
+
+# Not a target:
+boostdef.cc:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+werewolf.o: werewolf.cc werewolf.h enemy.h character.h
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+enemy.cc:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+merchant.d:
+#  Implicit rule search has been done.
+#  Last modified 2022-07-19 11:42:48.145608353
+#  File has been updated.
+#  Successfully updated.
+
+# Not a target:
+treasure.h:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+game.h:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+compass.cc:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+boostatk.d:
+#  Implicit rule search has been done.
+#  Last modified 2022-07-19 11:42:48.081609699
+#  File has been updated.
+#  Successfully updated.
+
+# Not a target:
+item.h:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+goblin.d:
+#  Implicit rule search has been done.
+#  Last modified 2022-07-19 11:42:48.133608605
+#  File has been updated.
+#  Successfully updated.
+
+# Not a target:
+troll.d:
+#  Implicit rule search has been done.
+#  Last modified 2022-07-16 13:47:40.341640186
+#  File has been updated.
+#  Successfully updated.
+
+# Not a target:
+human.d:
+#  Implicit rule search has been done.
+#  Last modified 2022-07-16 14:19:06.05240327
+#  File has been updated.
+#  Successfully updated.
+
+# Not a target:
+Makefile:
+#  Implicit rule search has been done.
+#  Last modified 2022-07-20 20:12:20.514676372
+#  File has been updated.
+#  Successfully updated.
+
+wounddef.o: wounddef.cc wounddef.h decorator.h player.h character.h
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+phoenix.h:
+ 
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+potion.h:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+dragon.h:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+dwarf.o: dwarf.cc dwarf.h player.h character.h
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+elf.h:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+item.o: item.cc item.h character.h
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+treasure.d:
+#  Implicit rule search has been done.
+#  Last modified 2022-07-16 13:47:40.329640168
+#  File has been updated.
+#  Successfully updated.
+
+# Not a target:
+wounddef.cc:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+vampire.o: vampire.cc vampire.h enemy.h character.h
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+floor.cc:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+ 
+#  File has not been updated.
+
+# Not a target:
+game.d:
+#  Implicit rule search has been done.
+#  Last modified 2022-07-20 19:50:13.402914336
+#  File has been updated.
+#  Successfully updated.
+
+barriersuit.o: barriersuit.cc barriersuit.h item.h character.h
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+orc.o: orc.cc orc.h player.h character.h
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+dwarf.cc:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+merchant.o: merchant.cc merchant.h enemy.h character.h
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+character.h:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+player.h:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+ 
+
+# Not a target:
+item.cc:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+woundatk.h:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+boostatk.o: boostatk.cc boostatk.h decorator.h player.h character.h
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+boostdef.h:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+main.d:
+#  Implicit rule search has been done.
+#  Last modified 2022-07-20 19:50:13.058913354
+#  File has been updated.
+#  Successfully updated.
+
+# Not a target:
+phoenix.d:
+#  Implicit rule search has been done.
+#  Last modified 2022-07-16 13:47:40.269640079
+#  File has been updated.
+#  Successfully updated.
+
+# Not a target:
+enemy.h:
+#  Implicit rule search has not been done.
+ 
+#  Modification time never checked.
+#  File has not been updated.
+
+goblin.o: goblin.cc goblin.h enemy.h character.h
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+werewolf.cc:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+barriersuit.cc:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+potion.d:
+#  Implicit rule search has been done.
+#  Last modified 2022-07-16 13:47:40.309640139
+#  File has been updated.
+#  Successfully updated.
+
+# Not a target:
+orc.cc:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+troll.o: troll.cc troll.h enemy.h character.h
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+elf.d:
+#  Implicit rule search has been done.
+#  Last modified 2022-07-16 14:20:33.82853153
+#  File has been updated.
+#  Successfully updated.
+
+human.o: human.cc human.h player.h character.h
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+compass.h:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+merchant.cc:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+.DEFAULT:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+floor.d:
+#  Implicit rule search has been done.
+#  Last modified 2022-07-20 19:54:00.44356087
+#  File has been updated.
+#  Successfully updated.
+
+# Not a target:
+factory.cc:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+ 
+decorator.o: decorator.cc decorator.h player.h character.h
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+boostatk.cc:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+vampire.cc:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+cc3k: werewolf.o phoenix.o vampire.o troll.o enemy.o merchant.o goblin.o compass.o treasure.o barriersuit.o potion.o factory.o main.o game.o floor.o chamber.o character.o decorator.o item.o player.o wounddef.o woundatk.o boostatk.o boostdef.o dwarf.o human.o elf.o orc.o
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 11):
+	${CXX} ${CXXFLAGS} ${OBJECTS} -o ${EXEC}
+
+# Not a target:
+werewolf.h:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+goblin.cc:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+decorator.d:
+#  Implicit rule search has been done.
+ 
+#  Last modified 2022-07-16 14:15:54.072123059
+#  File has been updated.
+#  Successfully updated.
+
+clean:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 14):
+	rm ${DEPENDS} ${OBJECTS} ${EXEC}
+
+# Not a target:
+troll.cc:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+treasure.o: treasure.cc treasure.h item.h character.h
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+character.d:
+#  Implicit rule search has been done.
+#  Last modified 2022-07-16 13:47:40.105639836
+#  File has been updated.
+#  Successfully updated.
+
+# Not a target:
+player.d:
+#  Implicit rule search has been done.
+#  Last modified 2022-07-16 14:15:54.116123123
+#  File has been updated.
+#  Successfully updated.
+
+# Not a target:
+floor.h:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+woundatk.d:
+#  Implicit rule search has been done.
+ 
+#  Last modified 2022-07-19 11:42:48.169607848
+#  File has been updated.
+#  Successfully updated.
+
+game.o: game.cc game.h floor.h item.h character.h enemy.h player.h factory.h coordinates.h dwarf.h human.h elf.h orc.h
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+boostdef.d:
+#  Implicit rule search has been done.
+#  Last modified 2022-07-19 11:42:48.085609615
+#  File has been updated.
+#  Successfully updated.
+
+# Not a target:
+decorator.cc:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+enemy.d:
+#  Implicit rule search has been done.
+#  Last modified 2022-07-16 13:47:40.177639942
+#  File has been updated.
+#  Successfully updated.
+
+# Not a target:
+wounddef.h:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+ 
+# Not a target:
+factory.d:
+#  Implicit rule search has been done.
+#  Last modified 2022-07-20 19:50:12.698912328
+#  File has been updated.
+#  Successfully updated.
+
+# Not a target:
+compass.d:
+#  Implicit rule search has been done.
+#  Last modified 2022-07-16 13:47:40.121639859
+#  File has been updated.
+#  Successfully updated.
+
+# Not a target:
+chamber.d:
+#  Implicit rule search has been done.
+#  Last modified 2022-07-16 13:47:40.089639812
+#  File has been updated.
+#  Successfully updated.
+
+# Not a target:
+treasure.cc:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+main.o: main.cc game.h floor.h item.h character.h enemy.h player.h factory.h coordinates.h
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+phoenix.o: phoenix.cc phoenix.h enemy.h character.h
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+game.cc:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+dwarf.h:
+ 
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+potion.o: potion.cc potion.h item.h character.h
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+elf.o: elf.cc elf.h player.h character.h
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+werewolf.d:
+#  Implicit rule search has been done.
+#  Last modified 2022-07-20 20:14:31.023064101
+#  File has been updated.
+#  Successfully updated.
+
+# Not a target:
+factory.h:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+vampire.h:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+barriersuit.h:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+orc.h:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+ 
+#  File has not been updated.
+
+floor.o: floor.cc floor.h item.h character.h enemy.h player.h factory.h coordinates.h dwarf.h human.h orc.h elf.h vampire.h potion.h werewolf.h dragon.h treasure.h
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+main.cc:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+chamber.o: chamber.cc
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+phoenix.cc:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+coordinates.h:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+potion.cc:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+merchant.h:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+human.cc:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+elf.cc:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+character.o: character.cc character.h
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+ 
+player.o: player.cc player.h character.h
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# files hash-table stats:
+# Load=118/1024=12%, Rehash=0, Collisions=46/364=13%
+# VPATH Search Paths
+
+# No 'vpath' search paths.
+
+# No general ('VPATH' variable) search path.
+
+# strcache buffers: 1 (0) / strings = 128 / storage = 1226 B / avg = 9 B
+# current buf: size = 8162 B / used = 1226 B / count = 128 / avg = 9 B
+
+# strcache performance: lookups = 427 / hit rate = 70%
+# hash-table stats:
+# Load=128/8192=2%, Rehash=0, Collisions=20/427=5%
+# Finished Make data base on Wed Jul 20 20:15:24 2022
+
+ 

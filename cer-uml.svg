@@ -1,0 +1,965 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="1125.1696px" preserveAspectRatio="none" style="width:2320px;height:1125px;background:#00000000;" version="1.1" viewBox="0 0 2320 1125" width="2320.1292px" zoomAndPan="magnify"><defs><linearGradient id="g1thq391fpcbjj0" x1="50%" x2="50%" y1="0%" y2="100%"><stop offset="0%" stop-color="#2FA4E7"/><stop offset="100%" stop-color="#2683B9"/></linearGradient></defs><g><rect height="35.1131" id="_title" rx="3.1018" ry="3.1018" style="stroke:#BABDBF;stroke-width:0.7754442649434572;fill:none;" width="136.4782" x="1088.336" y="15.5089"/><text fill="#2FA4E7" font-family="&quot;Verdana&quot;" font-size="15.5089" font-weight="bold" lengthAdjust="spacing" textLength="119.4184" x="1096.8659" y="38.4345">UML Diagram</text><!--MD5=[792aaa989a38c9d91242de084f86eaf5]
+cluster CC3K--><g id="cluster_CC3K"><path d="M15.5089,63.8045 L68.2391,63.8045 A4.6527,4.6527 0 0 1 71.3409,66.9063 L76.769,94.2649 L2307.7221,94.2649 A3.1018,3.1018 0 0 1 2310.8239,97.3667 L2310.8239,1113.3683 A3.1018,3.1018 0 0 1 2307.7221,1116.4701 L15.5089,1116.4701 A3.1018,3.1018 0 0 1 12.4071,1113.3683 L12.4071,66.9063 A3.1018,3.1018 0 0 1 15.5089,63.8045 " fill="#FFFFFF" style="stroke:#2FA4E7;stroke-width:1.5508885298869144;"/><line style="stroke:#2FA4E7;stroke-width:1.5508885298869144;" x1="12.4071" x2="76.769" y1="94.2649" y2="94.2649"/><text fill="#2FA4E7" font-family="&quot;Verdana&quot;" font-size="15.5089" font-weight="bold" lengthAdjust="spacing" textLength="46.5267" x="19.3861" y="83.6283">CC3K</text></g><!--MD5=[3eff9d4279c887ef9286477750bdaaff]
+class Character--><g id="elem_Character"><rect codeLine="10" height="409.2044" id="Character" rx="3.1018" ry="3.1018" style="stroke:#2FA4E7;stroke-width:0.7754442649434572;fill:none;" width="155.8643" x="1705.5897" y="104.1276"/><rect fill="url(#g1thq391fpcbjj0)" height="25.4382" rx="3.1018" ry="3.1018" style="stroke:url(#g1thq391fpcbjj0);stroke-width:0.7754442649434572;" width="155.8643" x="1705.5897" y="104.1276"/><rect fill="url(#g1thq391fpcbjj0)" height="3.1018" style="stroke:url(#g1thq391fpcbjj0);stroke-width:0.7754442649434572;" width="155.8643" x="1705.5897" y="126.4641"/><rect codeLine="10" fill="none" height="409.2044" id="Character" rx="3.1018" ry="3.1018" style="stroke:#2FA4E7;stroke-width:0.7754442649434572;" width="155.8643" x="1705.5897" y="104.1276"/><ellipse cx="1755.2181" cy="116.8467" rx="7.7544" ry="7.7544" style="stroke:#2683B9;stroke-width:0.7754442649434572;fill:none;"/><path d="M1756.6599,114.3265 C1756.1511,114.0842 1755.8239,114.0115 1755.3393,114.0115 C1753.9095,114.0115 1752.8069,115.1383 1752.8069,116.6286 L1752.8069,117.2466 C1752.8069,118.6642 1753.9701,119.6941 1755.5452,119.6941 C1756.2116,119.6941 1756.8538,119.5244 1757.2536,119.2215 C1757.5808,119.0034 1757.7504,118.7611 1757.7504,118.543 C1757.7504,118.3007 1757.5323,118.0826 1757.29,118.0826 C1757.1688,118.0826 1757.0598,118.1311 1756.9507,118.228 C1756.6963,118.4945 1756.6963,118.4945 1756.5994,118.543 C1756.3691,118.6884 1755.9935,118.7611 1755.5695,118.7611 C1754.4548,118.7611 1753.7399,118.1553 1753.7399,117.2223 L1753.7399,116.6286 C1753.7399,115.6472 1754.4305,114.9324 1755.3756,114.9324 C1755.6906,114.9324 1756.0299,115.0172 1756.2843,115.1626 C1756.5509,115.308 1756.6478,115.4291 1756.6963,115.6472 C1756.7326,115.8774 1756.7447,115.938 1756.8174,116.0107 C1756.8901,116.0955 1757.0234,116.144 1757.1446,116.144 C1757.3021,116.144 1757.4354,116.0713 1757.5323,115.9501 C1757.5929,115.8653 1757.6171,115.7684 1757.6171,115.5261 L1757.6171,114.7506 C1757.6171,114.5204 1757.605,114.4477 1757.5444,114.3629 C1757.4596,114.2175 1757.3142,114.1327 1757.1446,114.1327 C1756.9871,114.1327 1756.878,114.1933 1756.7569,114.3629 L1756.6599,114.3265 Z " fill="#2FA4E7"/><text fill="#343A40" font-family="&quot;Verdana&quot;" font-size="8.5299" lengthAdjust="spacing" textLength="42.6494" x="1773.8288" y="119.7997">Character</text><line style="stroke:#2FA4E7;stroke-width:0.7754442649434572;" x1="1706.3651" x2="1860.6785" y1="129.5658" y2="129.5658"/><rect fill="none" height="4.6527" style="stroke:#2683B9;stroke-width:0.7754442649434572;" width="4.6527" x="1711.7932" y="135.7694"/><text fill="#343A40" font-family="&quot;Verdana&quot;" font-size="8.5299" lengthAdjust="spacing" textLength="51.1793" x="1724.2003" y="144.4625">hp : Integer</text><rect fill="none" height="4.6527" style="stroke:#2683B9;stroke-width:0.7754442649434572;" width="4.6527" x="1711.7932" y="153.4532"/><text fill="#343A40" font-family="&quot;Verdana&quot;" font-size="8.5299" lengthAdjust="spacing" textLength="53.5057" x="1724.2003" y="162.1462">atk : Integer</text><rect fill="none" height="4.6527" style="stroke:#2683B9;stroke-width:0.7754442649434572;" width="4.6527" x="1711.7932" y="171.1369"/><text fill="#343A40" font-family="&quot;Verdana&quot;" font-size="8.5299" lengthAdjust="spacing" textLength="55.0565" x="1724.2003" y="179.83">def : Integer</text><rect fill="none" height="4.6527" style="stroke:#2683B9;stroke-width:0.7754442649434572;" width="4.6527" x="1711.7932" y="188.8207"/><text fill="#343A40" font-family="&quot;Verdana&quot;" font-size="8.5299" lengthAdjust="spacing" textLength="60.4847" x="1724.2003" y="197.5138">xPos : Integer</text><rect fill="none" height="4.6527" style="stroke:#2683B9;stroke-width:0.7754442649434572;" width="4.6527" x="1711.7932" y="206.5044"/><text fill="#343A40" font-family="&quot;Verdana&quot;" font-size="8.5299" lengthAdjust="spacing" textLength="60.4847" x="1724.2003" y="215.1975">yPos : Integer</text><rect fill="none" height="4.6527" style="stroke:#2683B9;stroke-width:0.7754442649434572;" width="4.6527" x="1711.7932" y="224.1882"/><text fill="#343A40" font-family="&quot;Verdana&quot;" font-size="8.5299" lengthAdjust="spacing" textLength="82.9725" x="1724.2003" y="232.8813">symbol : Character</text><line style="stroke:#2FA4E7;stroke-width:0.7754442649434572;" x1="1706.3651" x2="1860.6785" y1="241.872" y2="241.872"/><ellipse cx="1714.1195" cy="250.4019" rx="2.3263" ry="2.3263" style="stroke:#2683B9;stroke-width:0.7754442649434572;fill:none;"/><text fill="#343A40" font-family="&quot;Verdana&quot;" font-size="8.5299" lengthAdjust="spacing" textLength="70.5654" x="1724.2003" y="256.7686">setHp(int) : Void</text><ellipse cx="1714.1195" cy="268.0856" rx="2.3263" ry="2.3263" style="stroke:#2683B9;stroke-width:0.7754442649434572;fill:none;"/><text fill="#343A40" font-family="&quot;Verdana&quot;" font-size="8.5299" lengthAdjust="spacing" textLength="72.8918" x="1724.2003" y="274.4524">setAtk(int) : Void</text><ellipse cx="1714.1195" cy="285.7694" rx="2.3263" ry="2.3263" style="stroke:#2683B9;stroke-width:0.7754442649434572;fill:none;"/><text fill="#343A40" font-family="&quot;Verdana&quot;" font-size="8.5299" lengthAdjust="spacing" textLength="75.2181" x="1724.2003" y="292.1361">setDef(int) : Void</text><ellipse cx="1714.1195" cy="303.4532" rx="2.3263" ry="2.3263" style="stroke:#2683B9;stroke-width:0.7754442649434572;fill:none;"/><text fill="#343A40" font-family="&quot;Verdana&quot;" font-size="8.5299" lengthAdjust="spacing" textLength="65.1373" x="1724.2003" y="309.8199">setX(int) : Void</text><ellipse cx="1714.1195" cy="321.1369" rx="2.3263" ry="2.3263" style="stroke:#2683B9;stroke-width:0.7754442649434572;fill:none;"/><text fill="#343A40" font-family="&quot;Verdana&quot;" font-size="8.5299" lengthAdjust="spacing" textLength="64.3619" x="1724.2003" y="327.5037">setY(int) : Void</text><ellipse cx="1714.1195" cy="338.8207" rx="2.3263" ry="2.3263" style="stroke:#2683B9;stroke-width:0.7754442649434572;fill:none;"/><text fill="#343A40" font-family="&quot;Verdana&quot;" font-size="8.5299" lengthAdjust="spacing" textLength="72.8918" x="1724.2003" y="345.1874">getHp() : Integer</text><ellipse cx="1714.1195" cy="356.5044" rx="2.3263" ry="2.3263" style="stroke:#2683B9;stroke-width:0.7754442649434572;fill:none;"/><text fill="#343A40" font-family="&quot;Verdana&quot;" font-size="8.5299" lengthAdjust="spacing" textLength="75.2181" x="1724.2003" y="362.8712">getAtk() : Integer</text><ellipse cx="1714.1195" cy="374.1882" rx="2.3263" ry="2.3263" style="stroke:#2683B9;stroke-width:0.7754442649434572;fill:none;"/><text fill="#343A40" font-family="&quot;Verdana&quot;" font-size="8.5299" lengthAdjust="spacing" textLength="77.5444" x="1724.2003" y="380.555">getDef() : Integer</text><ellipse cx="1714.1195" cy="391.872" rx="2.3263" ry="2.3263" style="stroke:#2683B9;stroke-width:0.7754442649434572;fill:none;"/><text fill="#343A40" font-family="&quot;Verdana&quot;" font-size="8.5299" lengthAdjust="spacing" textLength="67.4637" x="1724.2003" y="398.2387">getX() : Integer</text><ellipse cx="1714.1195" cy="409.5557" rx="2.3263" ry="2.3263" style="stroke:#2683B9;stroke-width:0.7754442649434572;fill:none;"/><text fill="#343A40" font-family="&quot;Verdana&quot;" font-size="8.5299" lengthAdjust="spacing" textLength="66.6882" x="1724.2003" y="415.9225">getY() : Integer</text><ellipse cx="1714.1195" cy="427.2395" rx="2.3263" ry="2.3263" style="stroke:#2683B9;stroke-width:0.7754442649434572;fill:none;"/><text fill="#343A40" font-family="&quot;Verdana&quot;" font-size="8.5299" lengthAdjust="spacing" textLength="105.4604" x="1724.2003" y="433.6062">getSymbol() : Character</text><ellipse cx="1714.1195" cy="444.9233" rx="2.3263" ry="2.3263" style="stroke:#2683B9;stroke-width:0.7754442649434572;fill:none;"/><text fill="#343A40" font-family="&quot;Verdana&quot;" font-size="8.5299" lengthAdjust="spacing" textLength="128.7237" x="1724.2003" y="451.29">move(Integer, Integer) : Void</text><ellipse cx="1714.1195" cy="462.607" rx="2.3263" ry="2.3263" style="stroke:#2683B9;stroke-width:0.7754442649434572;fill:none;"/><text fill="#343A40" font-family="&quot;Verdana&quot;" font-size="8.5299" lengthAdjust="spacing" textLength="103.1341" x="1724.2003" y="468.9738">attack(Character) : Void</text><ellipse cx="1714.1195" cy="480.2908" rx="2.3263" ry="2.3263" style="stroke:#2683B9;stroke-width:0.7754442649434572;fill:none;"/><text fill="#343A40" font-family="&quot;Verdana&quot;" font-size="8.5299" lengthAdjust="spacing" textLength="123.2956" x="1724.2003" y="486.6575">takeDamage(Integer) : Void</text><ellipse cx="1714.1195" cy="497.9746" rx="2.3263" ry="2.3263" style="stroke:#2683B9;stroke-width:0.7754442649434572;fill:none;"/><text fill="#343A40" font-family="&quot;Verdana&quot;" font-size="8.5299" lengthAdjust="spacing" textLength="80.6462" x="1724.2003" y="504.3413">isAlive() : Boolean</text></g><!--MD5=[2cb47ba637a0d19583e6199456f6ad0b]
+class Player--><g id="elem_Player"><rect codeLine="38" height="179.3154" id="Player" rx="3.1018" ry="3.1018" style="stroke:#2FA4E7;stroke-width:0.7754442649434572;fill:none;" width="132.601" x="1877.7383" y="577.9241"/><rect fill="url(#g1thq391fpcbjj0)" height="25.4382" rx="3.1018" ry="3.1018" style="stroke:url(#g1thq391fpcbjj0);stroke-width:0.7754442649434572;" width="132.601" x="1877.7383" y="577.9241"/><rect fill="url(#g1thq391fpcbjj0)" height="3.1018" style="stroke:url(#g1thq391fpcbjj0);stroke-width:0.7754442649434572;" width="132.601" x="1877.7383" y="600.2605"/><rect codeLine="38" fill="none" height="179.3154" id="Player" rx="3.1018" ry="3.1018" style="stroke:#2FA4E7;stroke-width:0.7754442649434572;" width="132.601" x="1877.7383" y="577.9241"/><ellipse cx="1923.4895" cy="590.6432" rx="7.7544" ry="7.7544" style="stroke:#2683B9;stroke-width:0.7754442649434572;fill:none;"/><path d="M1924.9313,588.123 C1924.4225,587.8807 1924.0953,587.808 1923.6107,587.808 C1922.1809,587.808 1921.0784,588.9348 1921.0784,590.4251 L1921.0784,591.043 C1921.0784,592.4606 1922.2415,593.4905 1923.8166,593.4905 C1924.483,593.4905 1925.1252,593.3209 1925.525,593.018 C1925.8522,592.7999 1926.0218,592.5576 1926.0218,592.3395 C1926.0218,592.0971 1925.8037,591.879 1925.5614,591.879 C1925.4402,591.879 1925.3312,591.9275 1925.2221,592.0244 C1924.9677,592.291 1924.9677,592.291 1924.8708,592.3395 C1924.6405,592.4849 1924.2649,592.5576 1923.8409,592.5576 C1922.7262,592.5576 1922.0113,591.9517 1922.0113,591.0188 L1922.0113,590.4251 C1922.0113,589.4437 1922.7019,588.7288 1923.647,588.7288 C1923.962,588.7288 1924.3013,588.8136 1924.5557,588.959 C1924.8223,589.1044 1924.9192,589.2256 1924.9677,589.4437 C1925.004,589.6739 1925.0162,589.7345 1925.0889,589.8071 C1925.1616,589.892 1925.2948,589.9404 1925.416,589.9404 C1925.5735,589.9404 1925.7068,589.8677 1925.8037,589.7466 C1925.8643,589.6618 1925.8885,589.5648 1925.8885,589.3225 L1925.8885,588.5471 C1925.8885,588.3168 1925.8764,588.2441 1925.8158,588.1593 C1925.731,588.0139 1925.5856,587.9291 1925.416,587.9291 C1925.2585,587.9291 1925.1494,587.9897 1925.0283,588.1593 L1924.9313,588.123 Z " fill="#2FA4E7"/><text fill="#343A40" font-family="&quot;Verdana&quot;" font-size="8.5299" lengthAdjust="spacing" textLength="27.1405" x="1942.1002" y="593.5961">Player</text><line style="stroke:#2FA4E7;stroke-width:0.7754442649434572;" x1="1878.5137" x2="2009.5638" y1="603.3623" y2="603.3623"/><rect fill="none" height="4.6527" style="stroke:#2683B9;stroke-width:0.7754442649434572;" width="4.6527" x="1883.9418" y="609.5658"/><text fill="#343A40" font-family="&quot;Verdana&quot;" font-size="8.5299" lengthAdjust="spacing" textLength="58.9338" x="1896.3489" y="618.2589">gold : Integer</text><rect fill="none" height="4.6527" style="stroke:#2683B9;stroke-width:0.7754442649434572;" width="4.6527" x="1883.9418" y="627.2496"/><text fill="#343A40" font-family="&quot;Verdana&quot;" font-size="8.5299" lengthAdjust="spacing" textLength="89.9515" x="1896.3489" y="635.9427">hasBarrierSuit : Bool</text><line style="stroke:#2FA4E7;stroke-width:0.7754442649434572;" x1="1878.5137" x2="2009.5638" y1="644.9334" y2="644.9334"/><ellipse cx="1886.2682" cy="653.4632" rx="2.3263" ry="2.3263" style="stroke:#2683B9;stroke-width:0.7754442649434572;fill:none;"/><text fill="#343A40" font-family="&quot;Verdana&quot;" font-size="8.5299" lengthAdjust="spacing" textLength="74.4426" x="1896.3489" y="659.83">addGold(Integer)</text><ellipse cx="1886.2682" cy="671.147" rx="2.3263" ry="2.3263" style="stroke:#2683B9;stroke-width:0.7754442649434572;fill:none;"/><text fill="#343A40" font-family="&quot;Verdana&quot;" font-size="8.5299" lengthAdjust="spacing" textLength="81.4216" x="1896.3489" y="677.5138">getGold() : Integer</text><ellipse cx="1886.2682" cy="688.8308" rx="2.3263" ry="2.3263" style="stroke:#2683B9;stroke-width:0.7754442649434572;fill:none;"/><text fill="#343A40" font-family="&quot;Verdana&quot;" font-size="8.5299" lengthAdjust="spacing" textLength="69.79" x="1896.3489" y="695.1975">useGold() : void</text><ellipse cx="1886.2682" cy="706.5145" rx="2.3263" ry="2.3263" style="stroke:#2683B9;stroke-width:0.7754442649434572;fill:none;"/><text fill="#343A40" font-family="&quot;Verdana&quot;" font-size="8.5299" lengthAdjust="spacing" textLength="89.9515" x="1896.3489" y="712.8813">updateStats()  : void</text><ellipse cx="1886.2682" cy="724.1983" rx="2.3263" ry="2.3263" style="stroke:#2683B9;stroke-width:0.7754442649434572;fill:none;"/><text fill="#343A40" font-family="&quot;Verdana&quot;" font-size="8.5299" lengthAdjust="spacing" textLength="102.3586" x="1896.3489" y="730.565">usePotion(Potion) : void</text><ellipse cx="1886.2682" cy="741.8821" rx="2.3263" ry="2.3263" style="stroke:#2683B9;stroke-width:0.7754442649434572;fill:none;"/><text fill="#343A40" font-family="&quot;Verdana&quot;" font-size="8.5299" lengthAdjust="spacing" textLength="105.4604" x="1896.3489" y="748.2488">getSymbol() : Character</text></g><!--MD5=[2e69174041fa7eb3bebc5f460ee56291]
+class Human--><g id="elem_Human"><rect codeLine="52" height="37.8453" id="Human" rx="3.1018" ry="3.1018" style="stroke:#2FA4E7;stroke-width:0.7754442649434572;fill:none;" width="62.0355" x="2236.3813" y="874.5315"/><rect fill="url(#g1thq391fpcbjj0)" height="25.4382" rx="3.1018" ry="3.1018" style="stroke:url(#g1thq391fpcbjj0);stroke-width:0.7754442649434572;" width="62.0355" x="2236.3813" y="874.5315"/><rect fill="url(#g1thq391fpcbjj0)" height="3.1018" style="stroke:url(#g1thq391fpcbjj0);stroke-width:0.7754442649434572;" width="62.0355" x="2236.3813" y="896.8679"/><rect codeLine="52" fill="none" height="37.8453" id="Human" rx="3.1018" ry="3.1018" style="stroke:#2FA4E7;stroke-width:0.7754442649434572;" width="62.0355" x="2236.3813" y="874.5315"/><ellipse cx="2247.2375" cy="887.2506" rx="7.7544" ry="7.7544" style="stroke:#2683B9;stroke-width:0.7754442649434572;fill:none;"/><path d="M2248.6793,884.7304 C2248.1704,884.4881 2247.8433,884.4154 2247.3586,884.4154 C2245.9289,884.4154 2244.8263,885.5422 2244.8263,887.0325 L2244.8263,887.6504 C2244.8263,889.0681 2245.9895,890.0979 2247.5646,890.0979 C2248.231,890.0979 2248.8732,889.9283 2249.273,889.6254 C2249.6002,889.4073 2249.7698,889.165 2249.7698,888.9469 C2249.7698,888.7046 2249.5517,888.4865 2249.3094,888.4865 C2249.1882,888.4865 2249.0792,888.5349 2248.9701,888.6319 C2248.7157,888.8984 2248.7157,888.8984 2248.6187,888.9469 C2248.3885,889.0923 2248.0129,889.165 2247.5889,889.165 C2246.4742,889.165 2245.7593,888.5592 2245.7593,887.6262 L2245.7593,887.0325 C2245.7593,886.0511 2246.4499,885.3362 2247.395,885.3362 C2247.71,885.3362 2248.0493,885.421 2248.3037,885.5664 C2248.5703,885.7118 2248.6672,885.833 2248.7157,886.0511 C2248.752,886.2813 2248.7641,886.3419 2248.8368,886.4146 C2248.9095,886.4994 2249.0428,886.5479 2249.164,886.5479 C2249.3215,886.5479 2249.4548,886.4752 2249.5517,886.354 C2249.6123,886.2692 2249.6365,886.1723 2249.6365,885.9299 L2249.6365,885.1545 C2249.6365,884.9243 2249.6244,884.8516 2249.5638,884.7668 C2249.479,884.6214 2249.3336,884.5366 2249.164,884.5366 C2249.0065,884.5366 2248.8974,884.5971 2248.7763,884.7668 L2248.6793,884.7304 Z " fill="#2FA4E7"/><text fill="#343A40" font-family="&quot;Verdana&quot;" font-size="8.5299" lengthAdjust="spacing" textLength="31.0178" x="2261.1955" y="890.2036">Human</text><line style="stroke:#2FA4E7;stroke-width:0.7754442649434572;" x1="2237.1567" x2="2297.6414" y1="899.9697" y2="899.9697"/><line style="stroke:#2FA4E7;stroke-width:0.7754442649434572;" x1="2237.1567" x2="2297.6414" y1="906.1733" y2="906.1733"/></g><!--MD5=[23fd6e2d610f17f7b0c016502f515a17]
+class Dwarf--><g id="elem_Dwarf"><rect codeLine="57" height="55.5291" id="Dwarf" rx="3.1018" ry="3.1018" style="stroke:#2FA4E7;stroke-width:0.7754442649434572;fill:none;" width="110.1131" x="1679.6123" y="865.6139"/><rect fill="url(#g1thq391fpcbjj0)" height="25.4382" rx="3.1018" ry="3.1018" style="stroke:url(#g1thq391fpcbjj0);stroke-width:0.7754442649434572;" width="110.1131" x="1679.6123" y="865.6139"/><rect fill="url(#g1thq391fpcbjj0)" height="3.1018" style="stroke:url(#g1thq391fpcbjj0);stroke-width:0.7754442649434572;" width="110.1131" x="1679.6123" y="887.9503"/><rect codeLine="57" fill="none" height="55.5291" id="Dwarf" rx="3.1018" ry="3.1018" style="stroke:#2FA4E7;stroke-width:0.7754442649434572;" width="110.1131" x="1679.6123" y="865.6139"/><ellipse cx="1714.895" cy="878.333" rx="7.7544" ry="7.7544" style="stroke:#2683B9;stroke-width:0.7754442649434572;fill:none;"/><path d="M1716.3368,875.8128 C1715.8279,875.5705 1715.5008,875.4978 1715.0162,875.4978 C1713.5864,875.4978 1712.4838,876.6246 1712.4838,878.1149 L1712.4838,878.7328 C1712.4838,880.1504 1713.647,881.1803 1715.2221,881.1803 C1715.8885,881.1803 1716.5307,881.0107 1716.9305,880.7078 C1717.2577,880.4897 1717.4273,880.2474 1717.4273,880.0293 C1717.4273,879.787 1717.2092,879.5689 1716.9669,879.5689 C1716.8457,879.5689 1716.7367,879.6173 1716.6276,879.7143 C1716.3732,879.9808 1716.3732,879.9808 1716.2763,880.0293 C1716.046,880.1747 1715.6704,880.2474 1715.2464,880.2474 C1714.1317,880.2474 1713.4168,879.6416 1713.4168,878.7086 L1713.4168,878.1149 C1713.4168,877.1335 1714.1074,876.4186 1715.0525,876.4186 C1715.3675,876.4186 1715.7068,876.5034 1715.9612,876.6488 C1716.2278,876.7942 1716.3247,876.9154 1716.3732,877.1335 C1716.4095,877.3637 1716.4216,877.4243 1716.4943,877.497 C1716.567,877.5818 1716.7003,877.6303 1716.8215,877.6303 C1716.979,877.6303 1717.1123,877.5576 1717.2092,877.4364 C1717.2698,877.3516 1717.294,877.2546 1717.294,877.0123 L1717.294,876.2369 C1717.294,876.0067 1717.2819,875.934 1717.2213,875.8492 C1717.1365,875.7038 1716.9911,875.6189 1716.8215,875.6189 C1716.664,875.6189 1716.5549,875.6795 1716.4338,875.8492 L1716.3368,875.8128 Z " fill="#2FA4E7"/><text fill="#343A40" font-family="&quot;Verdana&quot;" font-size="8.5299" lengthAdjust="spacing" textLength="25.5897" x="1733.5057" y="881.286">Dwarf</text><line style="stroke:#2FA4E7;stroke-width:0.7754442649434572;" x1="1680.3877" x2="1788.9499" y1="891.0521" y2="891.0521"/><line style="stroke:#2FA4E7;stroke-width:0.7754442649434572;" x1="1680.3877" x2="1788.9499" y1="897.2557" y2="897.2557"/><ellipse cx="1688.1422" cy="905.7855" rx="2.3263" ry="2.3263" style="stroke:#2683B9;stroke-width:0.7754442649434572;fill:none;"/><text fill="#343A40" font-family="&quot;Verdana&quot;" font-size="8.5299" lengthAdjust="spacing" textLength="82.9725" x="1698.2229" y="912.1523">addGold() : Integer</text></g><!--MD5=[1add97151753c0fb34b998a49b664f10]
+class Elf--><g id="elem_Elf"><rect codeLine="62" height="55.5291" id="Elf" rx="3.1018" ry="3.1018" style="stroke:#2FA4E7;stroke-width:0.7754442649434572;fill:none;" width="113.9903" x="1817.2536" y="865.6139"/><rect fill="url(#g1thq391fpcbjj0)" height="25.4382" rx="3.1018" ry="3.1018" style="stroke:url(#g1thq391fpcbjj0);stroke-width:0.7754442649434572;" width="113.9903" x="1817.2536" y="865.6139"/><rect fill="url(#g1thq391fpcbjj0)" height="3.1018" style="stroke:url(#g1thq391fpcbjj0);stroke-width:0.7754442649434572;" width="113.9903" x="1817.2536" y="887.9503"/><rect codeLine="62" fill="none" height="55.5291" id="Elf" rx="3.1018" ry="3.1018" style="stroke:#2FA4E7;stroke-width:0.7754442649434572;" width="113.9903" x="1817.2536" y="865.6139"/><ellipse cx="1861.8417" cy="878.333" rx="7.7544" ry="7.7544" style="stroke:#2683B9;stroke-width:0.7754442649434572;fill:none;"/><path d="M1863.2835,875.8128 C1862.7746,875.5705 1862.4475,875.4978 1861.9628,875.4978 C1860.5331,875.4978 1859.4305,876.6246 1859.4305,878.1149 L1859.4305,878.7328 C1859.4305,880.1504 1860.5937,881.1803 1862.1688,881.1803 C1862.8352,881.1803 1863.4774,881.0107 1863.8772,880.7078 C1864.2044,880.4897 1864.374,880.2474 1864.374,880.0293 C1864.374,879.787 1864.1559,879.5689 1863.9136,879.5689 C1863.7924,879.5689 1863.6834,879.6173 1863.5743,879.7143 C1863.3199,879.9808 1863.3199,879.9808 1863.2229,880.0293 C1862.9927,880.1747 1862.6171,880.2474 1862.1931,880.2474 C1861.0784,880.2474 1860.3635,879.6416 1860.3635,878.7086 L1860.3635,878.1149 C1860.3635,877.1335 1861.0541,876.4186 1861.9992,876.4186 C1862.3142,876.4186 1862.6535,876.5034 1862.9079,876.6488 C1863.1745,876.7942 1863.2714,876.9154 1863.3199,877.1335 C1863.3562,877.3637 1863.3683,877.4243 1863.441,877.497 C1863.5137,877.5818 1863.647,877.6303 1863.7682,877.6303 C1863.9257,877.6303 1864.059,877.5576 1864.1559,877.4364 C1864.2165,877.3516 1864.2407,877.2546 1864.2407,877.0123 L1864.2407,876.2369 C1864.2407,876.0067 1864.2286,875.934 1864.168,875.8492 C1864.0832,875.7038 1863.9378,875.6189 1863.7682,875.6189 C1863.6107,875.6189 1863.5016,875.6795 1863.3805,875.8492 L1863.2835,875.8128 Z " fill="#2FA4E7"/><text fill="#343A40" font-family="&quot;Verdana&quot;" font-size="8.5299" lengthAdjust="spacing" textLength="10.8562" x="1880.4523" y="881.286">Elf</text><line style="stroke:#2FA4E7;stroke-width:0.7754442649434572;" x1="1818.0291" x2="1930.4685" y1="891.0521" y2="891.0521"/><line style="stroke:#2FA4E7;stroke-width:0.7754442649434572;" x1="1818.0291" x2="1930.4685" y1="897.2557" y2="897.2557"/><ellipse cx="1825.7835" cy="905.7855" rx="2.3263" ry="2.3263" style="stroke:#2683B9;stroke-width:0.7754442649434572;fill:none;"/><text fill="#343A40" font-family="&quot;Verdana&quot;" font-size="8.5299" lengthAdjust="spacing" textLength="86.8498" x="1835.8643" y="912.1523">updateStats() : void</text></g><!--MD5=[93a60ddb14422ad2d71d3d461138a146]
+class Orc--><g id="elem_Orc"><rect codeLine="67" height="55.5291" id="Orc" rx="3.1018" ry="3.1018" style="stroke:#2FA4E7;stroke-width:0.7754442649434572;fill:none;" width="110.1131" x="1958.7722" y="865.6139"/><rect fill="url(#g1thq391fpcbjj0)" height="25.4382" rx="3.1018" ry="3.1018" style="stroke:url(#g1thq391fpcbjj0);stroke-width:0.7754442649434572;" width="110.1131" x="1958.7722" y="865.6139"/><rect fill="url(#g1thq391fpcbjj0)" height="3.1018" style="stroke:url(#g1thq391fpcbjj0);stroke-width:0.7754442649434572;" width="110.1131" x="1958.7722" y="887.9503"/><rect codeLine="67" fill="none" height="55.5291" id="Orc" rx="3.1018" ry="3.1018" style="stroke:#2FA4E7;stroke-width:0.7754442649434572;" width="110.1131" x="1958.7722" y="865.6139"/><ellipse cx="1999.483" cy="878.333" rx="7.7544" ry="7.7544" style="stroke:#2683B9;stroke-width:0.7754442649434572;fill:none;"/><path d="M2000.9249,875.8128 C2000.416,875.5705 2000.0889,875.4978 1999.6042,875.4978 C1998.1745,875.4978 1997.0719,876.6246 1997.0719,878.1149 L1997.0719,878.7328 C1997.0719,880.1504 1998.2351,881.1803 1999.8102,881.1803 C2000.4766,881.1803 2001.1187,881.0107 2001.5186,880.7078 C2001.8457,880.4897 2002.0153,880.2474 2002.0153,880.0293 C2002.0153,879.787 2001.7973,879.5689 2001.5549,879.5689 C2001.4338,879.5689 2001.3247,879.6173 2001.2157,879.7143 C2000.9612,879.9808 2000.9612,879.9808 2000.8643,880.0293 C2000.6341,880.1747 2000.2585,880.2474 1999.8344,880.2474 C1998.7197,880.2474 1998.0048,879.6416 1998.0048,878.7086 L1998.0048,878.1149 C1998.0048,877.1335 1998.6955,876.4186 1999.6405,876.4186 C1999.9556,876.4186 2000.2948,876.5034 2000.5493,876.6488 C2000.8158,876.7942 2000.9128,876.9154 2000.9612,877.1335 C2000.9976,877.3637 2001.0097,877.4243 2001.0824,877.497 C2001.1551,877.5818 2001.2884,877.6303 2001.4095,877.6303 C2001.567,877.6303 2001.7003,877.5576 2001.7973,877.4364 C2001.8578,877.3516 2001.8821,877.2546 2001.8821,877.0123 L2001.8821,876.2369 C2001.8821,876.0067 2001.87,875.934 2001.8094,875.8492 C2001.7246,875.7038 2001.5792,875.6189 2001.4095,875.6189 C2001.252,875.6189 2001.143,875.6795 2001.0218,875.8492 L2000.9249,875.8128 Z " fill="#2FA4E7"/><text fill="#343A40" font-family="&quot;Verdana&quot;" font-size="8.5299" lengthAdjust="spacing" textLength="14.7334" x="2018.0937" y="881.286">Orc</text><line style="stroke:#2FA4E7;stroke-width:0.7754442649434572;" x1="1959.5477" x2="2068.1099" y1="891.0521" y2="891.0521"/><line style="stroke:#2FA4E7;stroke-width:0.7754442649434572;" x1="1959.5477" x2="2068.1099" y1="897.2557" y2="897.2557"/><ellipse cx="1967.3021" cy="905.7855" rx="2.3263" ry="2.3263" style="stroke:#2683B9;stroke-width:0.7754442649434572;fill:none;"/><text fill="#343A40" font-family="&quot;Verdana&quot;" font-size="8.5299" lengthAdjust="spacing" textLength="82.9725" x="1977.3829" y="912.1523">addGold() : Integer</text></g><!--MD5=[321dae1e4c20a532a67879525d68ecc8]
+class Decorator--><g id="elem_Decorator"><rect codeLine="73" height="73.2128" id="Decorator" rx="3.1018" ry="3.1018" style="stroke:#2FA4E7;stroke-width:0.7754442649434572;fill:none;" width="112.4394" x="2096.4136" y="857.084"/><rect fill="url(#g1thq391fpcbjj0)" height="25.4382" rx="3.1018" ry="3.1018" style="stroke:url(#g1thq391fpcbjj0);stroke-width:0.7754442649434572;" width="112.4394" x="2096.4136" y="857.084"/><rect fill="url(#g1thq391fpcbjj0)" height="3.1018" style="stroke:url(#g1thq391fpcbjj0);stroke-width:0.7754442649434572;" width="112.4394" x="2096.4136" y="879.4204"/><rect codeLine="73" fill="none" height="73.2128" id="Decorator" rx="3.1018" ry="3.1018" style="stroke:#2FA4E7;stroke-width:0.7754442649434572;" width="112.4394" x="2096.4136" y="857.084"/><ellipse cx="2124.3683" cy="869.8031" rx="7.7544" ry="7.7544" style="stroke:#2683B9;stroke-width:0.7754442649434572;fill:none;"/><path d="M2125.8102,867.2829 C2125.3013,867.0406 2124.9742,866.9679 2124.4895,866.9679 C2123.0598,866.9679 2121.9572,868.0947 2121.9572,869.585 L2121.9572,870.2029 C2121.9572,871.6206 2123.1204,872.6504 2124.6955,872.6504 C2125.3619,872.6504 2126.004,872.4808 2126.4039,872.1779 C2126.731,871.9598 2126.9006,871.7175 2126.9006,871.4994 C2126.9006,871.2571 2126.6826,871.039 2126.4402,871.039 C2126.3191,871.039 2126.21,871.0874 2126.101,871.1844 C2125.8465,871.4509 2125.8465,871.4509 2125.7496,871.4994 C2125.5194,871.6448 2125.1438,871.7175 2124.7197,871.7175 C2123.605,871.7175 2122.8901,871.1117 2122.8901,870.1787 L2122.8901,869.585 C2122.8901,868.6036 2123.5808,867.8887 2124.5258,867.8887 C2124.8409,867.8887 2125.1801,867.9735 2125.4346,868.1189 C2125.7011,868.2643 2125.7981,868.3855 2125.8465,868.6036 C2125.8829,868.8338 2125.895,868.8944 2125.9677,868.9671 C2126.0404,869.0519 2126.1737,869.1004 2126.2948,869.1004 C2126.4523,869.1004 2126.5856,869.0277 2126.6826,868.9065 C2126.7431,868.8217 2126.7674,868.7248 2126.7674,868.4824 L2126.7674,867.707 C2126.7674,867.4768 2126.7553,867.4041 2126.6947,867.3193 C2126.6099,867.1739 2126.4645,867.0891 2126.2948,867.0891 C2126.1373,867.0891 2126.0283,867.1496 2125.9071,867.3193 L2125.8102,867.2829 Z " fill="#2FA4E7"/><text fill="#343A40" font-family="&quot;Verdana&quot;" font-size="8.5299" lengthAdjust="spacing" textLength="43.4249" x="2142.126" y="872.7561">Decorator</text><line style="stroke:#2FA4E7;stroke-width:0.7754442649434572;" x1="2097.189" x2="2208.0775" y1="882.5222" y2="882.5222"/><polygon fill="none" points="2104.9435,887.1749,2108.0452,890.2767,2104.9435,893.3784,2101.8417,890.2767" style="stroke:#2683B9;stroke-width:0.7754442649434572;"/><text fill="#343A40" font-family="&quot;Verdana&quot;" font-size="8.5299" lengthAdjust="spacing" textLength="85.2989" x="2115.0242" y="897.4188">component : Player</text><line style="stroke:#2FA4E7;stroke-width:0.7754442649434572;" x1="2097.189" x2="2208.0775" y1="906.4095" y2="906.4095"/><ellipse cx="2104.9435" cy="914.9394" rx="2.3263" ry="2.3263" style="stroke:#2683B9;stroke-width:0.7754442649434572;fill:none;"/><text fill="#343A40" font-family="&quot;Verdana&quot;" font-size="8.5299" lengthAdjust="spacing" textLength="62.0355" x="2115.0242" y="921.3062">updateStats();</text></g><!--MD5=[80c532e980642ebbe770e7ed91e479d0]
+class Enemy--><g id="elem_Enemy"><rect codeLine="99" height="90.8966" id="Enemy" rx="3.1018" ry="3.1018" style="stroke:#2FA4E7;stroke-width:0.7754442649434572;fill:none;" width="115.5412" x="1048.7884" y="622.1244"/><rect fill="url(#g1thq391fpcbjj0)" height="25.4382" rx="3.1018" ry="3.1018" style="stroke:url(#g1thq391fpcbjj0);stroke-width:0.7754442649434572;" width="115.5412" x="1048.7884" y="622.1244"/><rect fill="url(#g1thq391fpcbjj0)" height="3.1018" style="stroke:url(#g1thq391fpcbjj0);stroke-width:0.7754442649434572;" width="115.5412" x="1048.7884" y="644.4608"/><rect codeLine="99" fill="none" height="90.8966" id="Enemy" rx="3.1018" ry="3.1018" style="stroke:#2FA4E7;stroke-width:0.7754442649434572;" width="115.5412" x="1048.7884" y="622.1244"/><ellipse cx="1084.0711" cy="634.8435" rx="7.7544" ry="7.7544" style="stroke:#2683B9;stroke-width:0.7754442649434572;fill:none;"/><path d="M1085.5129,632.3233 C1085.004,632.081 1084.6769,632.0083 1084.1922,632.0083 C1082.7625,632.0083 1081.6599,633.1351 1081.6599,634.6254 L1081.6599,635.2433 C1081.6599,636.6609 1082.8231,637.6908 1084.3982,637.6908 C1085.0646,637.6908 1085.7068,637.5212 1086.1066,637.2183 C1086.4338,637.0002 1086.6034,636.7579 1086.6034,636.5398 C1086.6034,636.2975 1086.3853,636.0794 1086.143,636.0794 C1086.0218,636.0794 1085.9128,636.1278 1085.8037,636.2248 C1085.5493,636.4913 1085.5493,636.4913 1085.4523,636.5398 C1085.2221,636.6852 1084.8465,636.7579 1084.4225,636.7579 C1083.3078,636.7579 1082.5929,636.1521 1082.5929,635.2191 L1082.5929,634.6254 C1082.5929,633.644 1083.2835,632.9291 1084.2286,632.9291 C1084.5436,632.9291 1084.8829,633.0139 1085.1373,633.1593 C1085.4039,633.3047 1085.5008,633.4259 1085.5493,633.644 C1085.5856,633.8742 1085.5977,633.9348 1085.6704,634.0075 C1085.7431,634.0923 1085.8764,634.1408 1085.9976,634.1408 C1086.1551,634.1408 1086.2884,634.0681 1086.3853,633.9469 C1086.4459,633.8621 1086.4701,633.7651 1086.4701,633.5228 L1086.4701,632.7474 C1086.4701,632.5172 1086.458,632.4445 1086.3974,632.3597 C1086.3126,632.2143 1086.1672,632.1294 1085.9976,632.1294 C1085.8401,632.1294 1085.731,632.19 1085.6099,632.3597 L1085.5129,632.3233 Z " fill="#2FA4E7"/><text fill="#343A40" font-family="&quot;Verdana&quot;" font-size="8.5299" lengthAdjust="spacing" textLength="31.0178" x="1102.6817" y="637.7965">Enemy</text><line style="stroke:#2FA4E7;stroke-width:0.7754442649434572;" x1="1049.5638" x2="1163.5541" y1="647.5626" y2="647.5626"/><rect fill="none" height="4.6527" style="stroke:#2683B9;stroke-width:0.7754442649434572;" width="4.6527" x="1054.9919" y="653.7662"/><text fill="#343A40" font-family="&quot;Verdana&quot;" font-size="8.5299" lengthAdjust="spacing" textLength="56.6074" x="1067.399" y="662.4592">hostile : bool</text><line style="stroke:#2FA4E7;stroke-width:0.7754442649434572;" x1="1049.5638" x2="1163.5541" y1="671.4499" y2="671.4499"/><ellipse cx="1057.3183" cy="679.9798" rx="2.3263" ry="2.3263" style="stroke:#2683B9;stroke-width:0.7754442649434572;fill:none;"/><text fill="#343A40" font-family="&quot;Verdana&quot;" font-size="8.5299" lengthAdjust="spacing" textLength="70.5654" x="1067.399" y="686.3466">isHostile() : bool</text><ellipse cx="1057.3183" cy="697.6636" rx="2.3263" ry="2.3263" style="stroke:#2683B9;stroke-width:0.7754442649434572;fill:none;"/><text fill="#343A40" font-family="&quot;Verdana&quot;" font-size="8.5299" lengthAdjust="spacing" textLength="88.4006" x="1067.399" y="704.0303">makeHostile() : void</text></g><!--MD5=[eec901bb95dcc22716bbcbcaabc6de6a]
+class Vampire--><g id="elem_Vampire"><rect codeLine="107" height="55.5291" id="Vampire" rx="3.1018" ry="3.1018" style="stroke:#2FA4E7;stroke-width:0.7754442649434572;fill:none;" width="132.601" x="1359.7415" y="865.6139"/><rect fill="url(#g1thq391fpcbjj0)" height="25.4382" rx="3.1018" ry="3.1018" style="stroke:url(#g1thq391fpcbjj0);stroke-width:0.7754442649434572;" width="132.601" x="1359.7415" y="865.6139"/><rect fill="url(#g1thq391fpcbjj0)" height="3.1018" style="stroke:url(#g1thq391fpcbjj0);stroke-width:0.7754442649434572;" width="132.601" x="1359.7415" y="887.9503"/><rect codeLine="107" fill="none" height="55.5291" id="Vampire" rx="3.1018" ry="3.1018" style="stroke:#2FA4E7;stroke-width:0.7754442649434572;" width="132.601" x="1359.7415" y="865.6139"/><ellipse cx="1400.4523" cy="878.333" rx="7.7544" ry="7.7544" style="stroke:#2683B9;stroke-width:0.7754442649434572;fill:none;"/><path d="M1401.8942,875.8128 C1401.3853,875.5705 1401.0582,875.4978 1400.5735,875.4978 C1399.1438,875.4978 1398.0412,876.6246 1398.0412,878.1149 L1398.0412,878.7328 C1398.0412,880.1504 1399.2044,881.1803 1400.7795,881.1803 C1401.4459,881.1803 1402.088,881.0107 1402.4879,880.7078 C1402.815,880.4897 1402.9847,880.2474 1402.9847,880.0293 C1402.9847,879.787 1402.7666,879.5689 1402.5242,879.5689 C1402.4031,879.5689 1402.294,879.6173 1402.185,879.7143 C1401.9305,879.9808 1401.9305,879.9808 1401.8336,880.0293 C1401.6034,880.1747 1401.2278,880.2474 1400.8037,880.2474 C1399.689,880.2474 1398.9742,879.6416 1398.9742,878.7086 L1398.9742,878.1149 C1398.9742,877.1335 1399.6648,876.4186 1400.6099,876.4186 C1400.9249,876.4186 1401.2641,876.5034 1401.5186,876.6488 C1401.7851,876.7942 1401.8821,876.9154 1401.9305,877.1335 C1401.9669,877.3637 1401.979,877.4243 1402.0517,877.497 C1402.1244,877.5818 1402.2577,877.6303 1402.3788,877.6303 C1402.5363,877.6303 1402.6696,877.5576 1402.7666,877.4364 C1402.8271,877.3516 1402.8514,877.2546 1402.8514,877.0123 L1402.8514,876.2369 C1402.8514,876.0067 1402.8393,875.934 1402.7787,875.8492 C1402.6939,875.7038 1402.5485,875.6189 1402.3788,875.6189 C1402.2213,875.6189 1402.1123,875.6795 1401.9911,875.8492 L1401.8942,875.8128 Z " fill="#2FA4E7"/><text fill="#343A40" font-family="&quot;Verdana&quot;" font-size="8.5299" lengthAdjust="spacing" textLength="37.2213" x="1419.063" y="881.286">Vampire</text><line style="stroke:#2FA4E7;stroke-width:0.7754442649434572;" x1="1360.517" x2="1491.567" y1="891.0521" y2="891.0521"/><line style="stroke:#2FA4E7;stroke-width:0.7754442649434572;" x1="1360.517" x2="1491.567" y1="897.2557" y2="897.2557"/><ellipse cx="1368.2714" cy="905.7855" rx="2.3263" ry="2.3263" style="stroke:#2683B9;stroke-width:0.7754442649434572;fill:none;"/><text fill="#343A40" font-family="&quot;Verdana&quot;" font-size="8.5299" lengthAdjust="spacing" textLength="105.4604" x="1378.3522" y="912.1523">getSymbol() : Character</text></g><!--MD5=[36b9d481efdb362423b3b610a347c1f0]
+class Werewolf--><g id="elem_Werewolf"><rect codeLine="112" height="55.5291" id="Werewolf" rx="3.1018" ry="3.1018" style="stroke:#2FA4E7;stroke-width:0.7754442649434572;fill:none;" width="132.601" x="1519.483" y="865.6139"/><rect fill="url(#g1thq391fpcbjj0)" height="25.4382" rx="3.1018" ry="3.1018" style="stroke:url(#g1thq391fpcbjj0);stroke-width:0.7754442649434572;" width="132.601" x="1519.483" y="865.6139"/><rect fill="url(#g1thq391fpcbjj0)" height="3.1018" style="stroke:url(#g1thq391fpcbjj0);stroke-width:0.7754442649434572;" width="132.601" x="1519.483" y="887.9503"/><rect codeLine="112" fill="none" height="55.5291" id="Werewolf" rx="3.1018" ry="3.1018" style="stroke:#2FA4E7;stroke-width:0.7754442649434572;" width="132.601" x="1519.483" y="865.6139"/><ellipse cx="1557.8675" cy="878.333" rx="7.7544" ry="7.7544" style="stroke:#2683B9;stroke-width:0.7754442649434572;fill:none;"/><path d="M1559.3094,875.8128 C1558.8005,875.5705 1558.4733,875.4978 1557.9887,875.4978 C1556.559,875.4978 1555.4564,876.6246 1555.4564,878.1149 L1555.4564,878.7328 C1555.4564,880.1504 1556.6195,881.1803 1558.1947,881.1803 C1558.8611,881.1803 1559.5032,881.0107 1559.9031,880.7078 C1560.2302,880.4897 1560.3998,880.2474 1560.3998,880.0293 C1560.3998,879.787 1560.1817,879.5689 1559.9394,879.5689 C1559.8183,879.5689 1559.7092,879.6173 1559.6002,879.7143 C1559.3457,879.9808 1559.3457,879.9808 1559.2488,880.0293 C1559.0186,880.1747 1558.643,880.2474 1558.2189,880.2474 C1557.1042,880.2474 1556.3893,879.6416 1556.3893,878.7086 L1556.3893,878.1149 C1556.3893,877.1335 1557.08,876.4186 1558.025,876.4186 C1558.3401,876.4186 1558.6793,876.5034 1558.9338,876.6488 C1559.2003,876.7942 1559.2973,876.9154 1559.3457,877.1335 C1559.3821,877.3637 1559.3942,877.4243 1559.4669,877.497 C1559.5396,877.5818 1559.6729,877.6303 1559.794,877.6303 C1559.9515,877.6303 1560.0848,877.5576 1560.1817,877.4364 C1560.2423,877.3516 1560.2666,877.2546 1560.2666,877.0123 L1560.2666,876.2369 C1560.2666,876.0067 1560.2544,875.934 1560.1939,875.8492 C1560.109,875.7038 1559.9637,875.6189 1559.794,875.6189 C1559.6365,875.6189 1559.5275,875.6795 1559.4063,875.8492 L1559.3094,875.8128 Z " fill="#2FA4E7"/><text fill="#343A40" font-family="&quot;Verdana&quot;" font-size="8.5299" lengthAdjust="spacing" textLength="41.874" x="1576.4782" y="881.286">Werewolf</text><line style="stroke:#2FA4E7;stroke-width:0.7754442649434572;" x1="1520.2585" x2="1651.3086" y1="891.0521" y2="891.0521"/><line style="stroke:#2FA4E7;stroke-width:0.7754442649434572;" x1="1520.2585" x2="1651.3086" y1="897.2557" y2="897.2557"/><ellipse cx="1528.0129" cy="905.7855" rx="2.3263" ry="2.3263" style="stroke:#2683B9;stroke-width:0.7754442649434572;fill:none;"/><text fill="#343A40" font-family="&quot;Verdana&quot;" font-size="8.5299" lengthAdjust="spacing" textLength="105.4604" x="1538.0937" y="912.1523">getSymbol() : Character</text></g><!--MD5=[4835e745e662bfe0926c2656c60a5d05]
+class Goblin--><g id="elem_Goblin"><rect codeLine="117" height="55.5291" id="Goblin" rx="3.1018" ry="3.1018" style="stroke:#2FA4E7;stroke-width:0.7754442649434572;fill:none;" width="132.601" x="536.9952" y="865.6139"/><rect fill="url(#g1thq391fpcbjj0)" height="25.4382" rx="3.1018" ry="3.1018" style="stroke:url(#g1thq391fpcbjj0);stroke-width:0.7754442649434572;" width="132.601" x="536.9952" y="865.6139"/><rect fill="url(#g1thq391fpcbjj0)" height="3.1018" style="stroke:url(#g1thq391fpcbjj0);stroke-width:0.7754442649434572;" width="132.601" x="536.9952" y="887.9503"/><rect codeLine="117" fill="none" height="55.5291" id="Goblin" rx="3.1018" ry="3.1018" style="stroke:#2FA4E7;stroke-width:0.7754442649434572;" width="132.601" x="536.9952" y="865.6139"/><ellipse cx="582.3586" cy="878.333" rx="7.7544" ry="7.7544" style="stroke:#2683B9;stroke-width:0.7754442649434572;fill:none;"/><path d="M583.8005,875.8128 C583.2916,875.5705 582.9645,875.4978 582.4798,875.4978 C581.0501,875.4978 579.9475,876.6246 579.9475,878.1149 L579.9475,878.7328 C579.9475,880.1504 581.1107,881.1803 582.6858,881.1803 C583.3522,881.1803 583.9943,881.0107 584.3942,880.7078 C584.7213,880.4897 584.891,880.2474 584.891,880.0293 C584.891,879.787 584.6729,879.5689 584.4305,879.5689 C584.3094,879.5689 584.2003,879.6173 584.0913,879.7143 C583.8368,879.9808 583.8368,879.9808 583.7399,880.0293 C583.5097,880.1747 583.1341,880.2474 582.71,880.2474 C581.5953,880.2474 580.8805,879.6416 580.8805,878.7086 L580.8805,878.1149 C580.8805,877.1335 581.5711,876.4186 582.5162,876.4186 C582.8312,876.4186 583.1704,876.5034 583.4249,876.6488 C583.6914,876.7942 583.7884,876.9154 583.8368,877.1335 C583.8732,877.3637 583.8853,877.4243 583.958,877.497 C584.0307,877.5818 584.164,877.6303 584.2851,877.6303 C584.4426,877.6303 584.5759,877.5576 584.6729,877.4364 C584.7334,877.3516 584.7577,877.2546 584.7577,877.0123 L584.7577,876.2369 C584.7577,876.0067 584.7456,875.934 584.685,875.8492 C584.6002,875.7038 584.4548,875.6189 584.2851,875.6189 C584.1276,875.6189 584.0186,875.6795 583.8974,875.8492 L583.8005,875.8128 Z " fill="#2FA4E7"/><text fill="#343A40" font-family="&quot;Verdana&quot;" font-size="8.5299" lengthAdjust="spacing" textLength="27.916" x="600.9693" y="881.286">Goblin</text><line style="stroke:#2FA4E7;stroke-width:0.7754442649434572;" x1="537.7706" x2="668.8207" y1="891.0521" y2="891.0521"/><line style="stroke:#2FA4E7;stroke-width:0.7754442649434572;" x1="537.7706" x2="668.8207" y1="897.2557" y2="897.2557"/><ellipse cx="545.525" cy="905.7855" rx="2.3263" ry="2.3263" style="stroke:#2683B9;stroke-width:0.7754442649434572;fill:none;"/><text fill="#343A40" font-family="&quot;Verdana&quot;" font-size="8.5299" lengthAdjust="spacing" textLength="105.4604" x="555.6058" y="912.1523">getSymbol() : Character</text></g><!--MD5=[d028a7a7f34f78ee6cff7c9b9b5357e6]
+class Merchant--><g id="elem_Merchant"><rect codeLine="148" height="143.9479" id="Merchant" rx="3.1018" ry="3.1018" style="stroke:#2FA4E7;stroke-width:0.7754442649434572;fill:none;" width="138.0291" x="697.1244" y="821.4136"/><rect fill="url(#g1thq391fpcbjj0)" height="25.4382" rx="3.1018" ry="3.1018" style="stroke:url(#g1thq391fpcbjj0);stroke-width:0.7754442649434572;" width="138.0291" x="697.1244" y="821.4136"/><rect fill="url(#g1thq391fpcbjj0)" height="3.1018" style="stroke:url(#g1thq391fpcbjj0);stroke-width:0.7754442649434572;" width="138.0291" x="697.1244" y="843.75"/><rect codeLine="148" fill="none" height="143.9479" id="Merchant" rx="3.1018" ry="3.1018" style="stroke:#2FA4E7;stroke-width:0.7754442649434572;" width="138.0291" x="697.1244" y="821.4136"/><ellipse cx="738.9984" cy="834.1327" rx="7.7544" ry="7.7544" style="stroke:#2683B9;stroke-width:0.7754442649434572;fill:none;"/><path d="M740.4402,831.6125 C739.9313,831.3702 739.6042,831.2975 739.1195,831.2975 C737.6898,831.2975 736.5872,832.4243 736.5872,833.9146 L736.5872,834.5325 C736.5872,835.9501 737.7504,836.98 739.3255,836.98 C739.9919,836.98 740.6341,836.8104 741.0339,836.5075 C741.3611,836.2894 741.5307,836.0471 741.5307,835.829 C741.5307,835.5866 741.3126,835.3685 741.0703,835.3685 C740.9491,835.3685 740.8401,835.417 740.731,835.5139 C740.4766,835.7805 740.4766,835.7805 740.3796,835.829 C740.1494,835.9744 739.7738,836.0471 739.3498,836.0471 C738.2351,836.0471 737.5202,835.4412 737.5202,834.5083 L737.5202,833.9146 C737.5202,832.9332 738.2108,832.2183 739.1559,832.2183 C739.4709,832.2183 739.8102,832.3031 740.0646,832.4485 C740.3312,832.5939 740.4281,832.7151 740.4766,832.9332 C740.5129,833.1634 740.525,833.2239 740.5977,833.2966 C740.6704,833.3815 740.8037,833.4299 740.9249,833.4299 C741.0824,833.4299 741.2157,833.3572 741.3126,833.2361 C741.3732,833.1513 741.3974,833.0543 741.3974,832.812 L741.3974,832.0366 C741.3974,831.8063 741.3853,831.7336 741.3247,831.6488 C741.2399,831.5034 741.0945,831.4186 740.9249,831.4186 C740.7674,831.4186 740.6583,831.4792 740.5372,831.6488 L740.4402,831.6125 Z " fill="#2FA4E7"/><text fill="#343A40" font-family="&quot;Verdana&quot;" font-size="8.5299" lengthAdjust="spacing" textLength="40.3231" x="757.609" y="837.0856">Merchant</text><line style="stroke:#2FA4E7;stroke-width:0.7754442649434572;" x1="697.8998" x2="834.378" y1="846.8518" y2="846.8518"/><rect fill="none" height="4.6527" style="stroke:#2683B9;stroke-width:0.7754442649434572;" width="4.6527" x="703.3279" y="853.0553"/><text fill="#343A40" font-family="&quot;Verdana&quot;" font-size="8.5299" lengthAdjust="spacing" textLength="74.4426" x="715.7351" y="861.7484">hostile : Boolean</text><line style="stroke:#2FA4E7;stroke-width:0.7754442649434572;" x1="697.8998" x2="834.378" y1="870.7391" y2="870.7391"/><ellipse cx="705.6543" cy="879.269" rx="2.3263" ry="2.3263" style="stroke:#2683B9;stroke-width:0.7754442649434572;fill:none;"/><text fill="#343A40" font-family="&quot;Verdana&quot;" font-size="8.5299" lengthAdjust="spacing" textLength="105.4604" x="715.7351" y="885.6357">getSymbol() : Character</text><ellipse cx="705.6543" cy="896.9527" rx="2.3263" ry="2.3263" style="stroke:#2683B9;stroke-width:0.7754442649434572;fill:none;"/><text fill="#343A40" font-family="&quot;Verdana&quot;" font-size="8.5299" lengthAdjust="spacing" textLength="88.4006" x="715.7351" y="903.3195">isHostile() : Boolean</text><ellipse cx="705.6543" cy="914.6365" rx="2.3263" ry="2.3263" style="stroke:#2683B9;stroke-width:0.7754442649434572;fill:none;"/><text fill="#343A40" font-family="&quot;Verdana&quot;" font-size="8.5299" lengthAdjust="spacing" textLength="106.2359" x="715.7351" y="921.0033">makeHostile() : Boolean</text><ellipse cx="705.6543" cy="932.3203" rx="2.3263" ry="2.3263" style="stroke:#2683B9;stroke-width:0.7754442649434572;fill:none;"/><text fill="#343A40" font-family="&quot;Verdana&quot;" font-size="8.5299" lengthAdjust="spacing" textLength="110.8885" x="715.7351" y="938.687">rewardAmount() : Integer</text><ellipse cx="705.6543" cy="950.004" rx="2.3263" ry="2.3263" style="stroke:#2683B9;stroke-width:0.7754442649434572;fill:none;"/><text fill="#343A40" font-family="&quot;Verdana&quot;" font-size="8.5299" lengthAdjust="spacing" textLength="105.4604" x="715.7351" y="956.3708">getSymbol() : Character</text></g><!--MD5=[0ec5399c048466d00a31875a1c1775fc]
+class Dragon--><g id="elem_Dragon"><rect codeLine="128" height="143.9479" id="Dragon" rx="3.1018" ry="3.1018" style="stroke:#2FA4E7;stroke-width:0.7754442649434572;fill:none;" width="150.4362" x="862.294" y="821.4136"/><rect fill="url(#g1thq391fpcbjj0)" height="25.4382" rx="3.1018" ry="3.1018" style="stroke:url(#g1thq391fpcbjj0);stroke-width:0.7754442649434572;" width="150.4362" x="862.294" y="821.4136"/><rect fill="url(#g1thq391fpcbjj0)" height="3.1018" style="stroke:url(#g1thq391fpcbjj0);stroke-width:0.7754442649434572;" width="150.4362" x="862.294" y="843.75"/><rect codeLine="128" fill="none" height="143.9479" id="Dragon" rx="3.1018" ry="3.1018" style="stroke:#2FA4E7;stroke-width:0.7754442649434572;" width="150.4362" x="862.294" y="821.4136"/><ellipse cx="914.6365" cy="834.1327" rx="7.7544" ry="7.7544" style="stroke:#2683B9;stroke-width:0.7754442649434572;fill:none;"/><path d="M916.0784,831.6125 C915.5695,831.3702 915.2423,831.2975 914.7577,831.2975 C913.3279,831.2975 912.2254,832.4243 912.2254,833.9146 L912.2254,834.5325 C912.2254,835.9501 913.3885,836.98 914.9637,836.98 C915.63,836.98 916.2722,836.8104 916.6721,836.5075 C916.9992,836.2894 917.1688,836.0471 917.1688,835.829 C917.1688,835.5866 916.9507,835.3685 916.7084,835.3685 C916.5872,835.3685 916.4782,835.417 916.3691,835.5139 C916.1147,835.7805 916.1147,835.7805 916.0178,835.829 C915.7876,835.9744 915.412,836.0471 914.9879,836.0471 C913.8732,836.0471 913.1583,835.4412 913.1583,834.5083 L913.1583,833.9146 C913.1583,832.9332 913.8489,832.2183 914.794,832.2183 C915.109,832.2183 915.4483,832.3031 915.7027,832.4485 C915.9693,832.5939 916.0662,832.7151 916.1147,832.9332 C916.1511,833.1634 916.1632,833.2239 916.2359,833.2966 C916.3086,833.3815 916.4418,833.4299 916.563,833.4299 C916.7205,833.4299 916.8538,833.3572 916.9507,833.2361 C917.0113,833.1513 917.0355,833.0543 917.0355,832.812 L917.0355,832.0366 C917.0355,831.8063 917.0234,831.7336 916.9628,831.6488 C916.878,831.5034 916.7326,831.4186 916.563,831.4186 C916.4055,831.4186 916.2964,831.4792 916.1753,831.6488 L916.0784,831.6125 Z " fill="#2FA4E7"/><text fill="#343A40" font-family="&quot;Verdana&quot;" font-size="8.5299" lengthAdjust="spacing" textLength="31.7932" x="933.2472" y="837.0856">Dragon</text><line style="stroke:#2FA4E7;stroke-width:0.7754442649434572;" x1="863.0695" x2="1011.9548" y1="846.8518" y2="846.8518"/><rect fill="none" height="4.6527" style="stroke:#2683B9;stroke-width:0.7754442649434572;" width="4.6527" x="868.4976" y="853.0553"/><text fill="#343A40" font-family="&quot;Verdana&quot;" font-size="8.5299" lengthAdjust="spacing" textLength="77.5444" x="880.9047" y="861.7484">booty : *Treasure</text><line style="stroke:#2FA4E7;stroke-width:0.7754442649434572;" x1="863.0695" x2="1011.9548" y1="870.7391" y2="870.7391"/><ellipse cx="870.8239" cy="879.269" rx="2.3263" ry="2.3263" style="stroke:#2683B9;stroke-width:0.7754442649434572;fill:none;"/><text fill="#343A40" font-family="&quot;Verdana&quot;" font-size="8.5299" lengthAdjust="spacing" textLength="105.4604" x="880.9047" y="885.6357">getSymbol() : Character</text><ellipse cx="870.8239" cy="896.9527" rx="2.3263" ry="2.3263" style="stroke:#2683B9;stroke-width:0.7754442649434572;fill:none;"/><text fill="#343A40" font-family="&quot;Verdana&quot;" font-size="8.5299" lengthAdjust="spacing" textLength="80.6462" x="880.9047" y="903.3195">getHoard() : Hoard</text><ellipse cx="870.8239" cy="914.6365" rx="2.3263" ry="2.3263" style="stroke:#2683B9;stroke-width:0.7754442649434572;fill:none;"/><text fill="#343A40" font-family="&quot;Verdana&quot;" font-size="8.5299" lengthAdjust="spacing" textLength="58.9338" x="880.9047" y="921.0033">move() : void</text><ellipse cx="870.8239" cy="932.3203" rx="2.3263" ry="2.3263" style="stroke:#2683B9;stroke-width:0.7754442649434572;fill:none;"/><text fill="#343A40" font-family="&quot;Verdana&quot;" font-size="8.5299" lengthAdjust="spacing" textLength="110.8885" x="880.9047" y="938.687">rewardAmount() : Integer</text><ellipse cx="870.8239" cy="950.004" rx="2.3263" ry="2.3263" style="stroke:#2683B9;stroke-width:0.7754442649434572;fill:none;"/><text fill="#343A40" font-family="&quot;Verdana&quot;" font-size="8.5299" lengthAdjust="spacing" textLength="123.2956" x="880.9047" y="956.3708">takeDamage(Integer) : Void</text></g><!--MD5=[957ddf93f71061be3b9190fed1e8b063]
+class Treasure--><g id="elem_Treasure"><rect codeLine="173" height="90.8966" id="Treasure" rx="3.1018" ry="3.1018" style="stroke:#2FA4E7;stroke-width:0.7754442649434572;fill:none;" width="142.6817" x="651.3732" y="1012.1729"/><rect fill="url(#g1thq391fpcbjj0)" height="25.4382" rx="3.1018" ry="3.1018" style="stroke:url(#g1thq391fpcbjj0);stroke-width:0.7754442649434572;" width="142.6817" x="651.3732" y="1012.1729"/><rect fill="url(#g1thq391fpcbjj0)" height="3.1018" style="stroke:url(#g1thq391fpcbjj0);stroke-width:0.7754442649434572;" width="142.6817" x="651.3732" y="1034.5093"/><rect codeLine="173" fill="none" height="90.8966" id="Treasure" rx="3.1018" ry="3.1018" style="stroke:#2FA4E7;stroke-width:0.7754442649434572;" width="142.6817" x="651.3732" y="1012.1729"/><ellipse cx="695.9612" cy="1024.892" rx="7.7544" ry="7.7544" style="stroke:#2683B9;stroke-width:0.7754442649434572;fill:none;"/><path d="M697.4031,1022.3718 C696.8942,1022.1294 696.567,1022.0567 696.0824,1022.0567 C694.6527,1022.0567 693.5501,1023.1836 693.5501,1024.6739 L693.5501,1025.2918 C693.5501,1026.7094 694.7132,1027.7393 696.2884,1027.7393 C696.9548,1027.7393 697.5969,1027.5697 697.9968,1027.2668 C698.3239,1027.0487 698.4935,1026.8063 698.4935,1026.5882 C698.4935,1026.3459 698.2754,1026.1278 698.0331,1026.1278 C697.912,1026.1278 697.8029,1026.1763 697.6939,1026.2732 C697.4394,1026.5398 697.4394,1026.5398 697.3425,1026.5882 C697.1123,1026.7336 696.7367,1026.8063 696.3126,1026.8063 C695.1979,1026.8063 694.483,1026.2005 694.483,1025.2676 L694.483,1024.6739 C694.483,1023.6924 695.1737,1022.9776 696.1187,1022.9776 C696.4338,1022.9776 696.773,1023.0624 697.0275,1023.2078 C697.294,1023.3532 697.391,1023.4744 697.4394,1023.6924 C697.4758,1023.9227 697.4879,1023.9832 697.5606,1024.0559 C697.6333,1024.1408 697.7666,1024.1892 697.8877,1024.1892 C698.0452,1024.1892 698.1785,1024.1165 698.2754,1023.9954 C698.336,1023.9105 698.3603,1023.8136 698.3603,1023.5713 L698.3603,1022.7958 C698.3603,1022.5656 698.3481,1022.4929 698.2876,1022.4081 C698.2027,1022.2627 698.0574,1022.1779 697.8877,1022.1779 C697.7302,1022.1779 697.6212,1022.2385 697.5,1022.4081 L697.4031,1022.3718 Z " fill="#2FA4E7"/><text fill="#343A40" font-family="&quot;Verdana&quot;" font-size="8.5299" lengthAdjust="spacing" textLength="39.5477" x="714.5719" y="1027.8449">Treasure</text><line style="stroke:#2FA4E7;stroke-width:0.7754442649434572;" x1="652.1486" x2="793.2795" y1="1037.6111" y2="1037.6111"/><rect fill="none" height="4.6527" style="stroke:#2683B9;stroke-width:0.7754442649434572;" width="4.6527" x="657.5767" y="1043.8146"/><text fill="#343A40" font-family="&quot;Verdana&quot;" font-size="8.5299" lengthAdjust="spacing" textLength="93.0533" x="669.9838" y="1052.5077">goldAmount : Integer</text><line style="stroke:#2FA4E7;stroke-width:0.7754442649434572;" x1="652.1486" x2="793.2795" y1="1061.4984" y2="1061.4984"/><ellipse cx="659.9031" cy="1070.0283" rx="2.3263" ry="2.3263" style="stroke:#2683B9;stroke-width:0.7754442649434572;fill:none;"/><text fill="#343A40" font-family="&quot;Verdana&quot;" font-size="8.5299" lengthAdjust="spacing" textLength="105.4604" x="669.9838" y="1076.395">getSymbol() : Character</text><ellipse cx="659.9031" cy="1087.712" rx="2.3263" ry="2.3263" style="stroke:#2683B9;stroke-width:0.7754442649434572;fill:none;"/><text fill="#343A40" font-family="&quot;Verdana&quot;" font-size="8.5299" lengthAdjust="spacing" textLength="115.5412" x="669.9838" y="1094.0788">getGoldAmount() : Integer</text></g><!--MD5=[f1b40927fdcae1a56e04b73547b6877b]
+class Phoenix--><g id="elem_Phoenix"><rect codeLine="139" height="55.5291" id="Phoenix" rx="3.1018" ry="3.1018" style="stroke:#2FA4E7;stroke-width:0.7754442649434572;fill:none;" width="132.601" x="1040.2585" y="865.6139"/><rect fill="url(#g1thq391fpcbjj0)" height="25.4382" rx="3.1018" ry="3.1018" style="stroke:url(#g1thq391fpcbjj0);stroke-width:0.7754442649434572;" width="132.601" x="1040.2585" y="865.6139"/><rect fill="url(#g1thq391fpcbjj0)" height="3.1018" style="stroke:url(#g1thq391fpcbjj0);stroke-width:0.7754442649434572;" width="132.601" x="1040.2585" y="887.9503"/><rect codeLine="139" fill="none" height="55.5291" id="Phoenix" rx="3.1018" ry="3.1018" style="stroke:#2FA4E7;stroke-width:0.7754442649434572;" width="132.601" x="1040.2585" y="865.6139"/><ellipse cx="1082.1325" cy="878.333" rx="7.7544" ry="7.7544" style="stroke:#2683B9;stroke-width:0.7754442649434572;fill:none;"/><path d="M1083.5743,875.8128 C1083.0654,875.5705 1082.7383,875.4978 1082.2536,875.4978 C1080.8239,875.4978 1079.7213,876.6246 1079.7213,878.1149 L1079.7213,878.7328 C1079.7213,880.1504 1080.8845,881.1803 1082.4596,881.1803 C1083.126,881.1803 1083.7682,881.0107 1084.168,880.7078 C1084.4952,880.4897 1084.6648,880.2474 1084.6648,880.0293 C1084.6648,879.787 1084.4467,879.5689 1084.2044,879.5689 C1084.0832,879.5689 1083.9742,879.6173 1083.8651,879.7143 C1083.6107,879.9808 1083.6107,879.9808 1083.5137,880.0293 C1083.2835,880.1747 1082.9079,880.2474 1082.4838,880.2474 C1081.3691,880.2474 1080.6543,879.6416 1080.6543,878.7086 L1080.6543,878.1149 C1080.6543,877.1335 1081.3449,876.4186 1082.29,876.4186 C1082.605,876.4186 1082.9443,876.5034 1083.1987,876.6488 C1083.4653,876.7942 1083.5622,876.9154 1083.6107,877.1335 C1083.647,877.3637 1083.6591,877.4243 1083.7318,877.497 C1083.8045,877.5818 1083.9378,877.6303 1084.059,877.6303 C1084.2165,877.6303 1084.3498,877.5576 1084.4467,877.4364 C1084.5073,877.3516 1084.5315,877.2546 1084.5315,877.0123 L1084.5315,876.2369 C1084.5315,876.0067 1084.5194,875.934 1084.4588,875.8492 C1084.374,875.7038 1084.2286,875.6189 1084.059,875.6189 C1083.9015,875.6189 1083.7924,875.6795 1083.6712,875.8492 L1083.5743,875.8128 Z " fill="#2FA4E7"/><text fill="#343A40" font-family="&quot;Verdana&quot;" font-size="8.5299" lengthAdjust="spacing" textLength="34.895" x="1100.7431" y="881.286">Phoenix</text><line style="stroke:#2FA4E7;stroke-width:0.7754442649434572;" x1="1041.0339" x2="1172.084" y1="891.0521" y2="891.0521"/><line style="stroke:#2FA4E7;stroke-width:0.7754442649434572;" x1="1041.0339" x2="1172.084" y1="897.2557" y2="897.2557"/><ellipse cx="1048.7884" cy="905.7855" rx="2.3263" ry="2.3263" style="stroke:#2683B9;stroke-width:0.7754442649434572;fill:none;"/><text fill="#343A40" font-family="&quot;Verdana&quot;" font-size="8.5299" lengthAdjust="spacing" textLength="105.4604" x="1058.8691" y="912.1523">getSymbol() : Character</text></g><!--MD5=[0d912f6bb98965e5a45e9bb1a9ed0249]
+class Troll--><g id="elem_Troll"><rect codeLine="144" height="55.5291" id="Troll" rx="3.1018" ry="3.1018" style="stroke:#2FA4E7;stroke-width:0.7754442649434572;fill:none;" width="132.601" x="1200" y="865.6139"/><rect fill="url(#g1thq391fpcbjj0)" height="25.4382" rx="3.1018" ry="3.1018" style="stroke:url(#g1thq391fpcbjj0);stroke-width:0.7754442649434572;" width="132.601" x="1200" y="865.6139"/><rect fill="url(#g1thq391fpcbjj0)" height="3.1018" style="stroke:url(#g1thq391fpcbjj0);stroke-width:0.7754442649434572;" width="132.601" x="1200" y="887.9503"/><rect codeLine="144" fill="none" height="55.5291" id="Troll" rx="3.1018" ry="3.1018" style="stroke:#2FA4E7;stroke-width:0.7754442649434572;" width="132.601" x="1200" y="865.6139"/><ellipse cx="1250.0162" cy="878.333" rx="7.7544" ry="7.7544" style="stroke:#2683B9;stroke-width:0.7754442649434572;fill:none;"/><path d="M1251.458,875.8128 C1250.9491,875.5705 1250.622,875.4978 1250.1373,875.4978 C1248.7076,875.4978 1247.605,876.6246 1247.605,878.1149 L1247.605,878.7328 C1247.605,880.1504 1248.7682,881.1803 1250.3433,881.1803 C1251.0097,881.1803 1251.6519,881.0107 1252.0517,880.7078 C1252.3788,880.4897 1252.5485,880.2474 1252.5485,880.0293 C1252.5485,879.787 1252.3304,879.5689 1252.088,879.5689 C1251.9669,879.5689 1251.8578,879.6173 1251.7488,879.7143 C1251.4943,879.9808 1251.4943,879.9808 1251.3974,880.0293 C1251.1672,880.1747 1250.7916,880.2474 1250.3675,880.2474 C1249.2528,880.2474 1248.538,879.6416 1248.538,878.7086 L1248.538,878.1149 C1248.538,877.1335 1249.2286,876.4186 1250.1737,876.4186 C1250.4887,876.4186 1250.8279,876.5034 1251.0824,876.6488 C1251.3489,876.7942 1251.4459,876.9154 1251.4943,877.1335 C1251.5307,877.3637 1251.5428,877.4243 1251.6155,877.497 C1251.6882,877.5818 1251.8215,877.6303 1251.9426,877.6303 C1252.1002,877.6303 1252.2334,877.5576 1252.3304,877.4364 C1252.391,877.3516 1252.4152,877.2546 1252.4152,877.0123 L1252.4152,876.2369 C1252.4152,876.0067 1252.4031,875.934 1252.3425,875.8492 C1252.2577,875.7038 1252.1123,875.6189 1251.9426,875.6189 C1251.7851,875.6189 1251.6761,875.6795 1251.5549,875.8492 L1251.458,875.8128 Z " fill="#2FA4E7"/><text fill="#343A40" font-family="&quot;Verdana&quot;" font-size="8.5299" lengthAdjust="spacing" textLength="18.6107" x="1268.6268" y="881.286">Troll</text><line style="stroke:#2FA4E7;stroke-width:0.7754442649434572;" x1="1200.7754" x2="1331.8255" y1="891.0521" y2="891.0521"/><line style="stroke:#2FA4E7;stroke-width:0.7754442649434572;" x1="1200.7754" x2="1331.8255" y1="897.2557" y2="897.2557"/><ellipse cx="1208.5299" cy="905.7855" rx="2.3263" ry="2.3263" style="stroke:#2683B9;stroke-width:0.7754442649434572;fill:none;"/><text fill="#343A40" font-family="&quot;Verdana&quot;" font-size="8.5299" lengthAdjust="spacing" textLength="105.4604" x="1218.6107" y="912.1523">getSymbol() : Character</text></g><!--MD5=[44a1b4afaef76c16e6c9ec4990ad0c8d]
+class Item--><g id="elem_Item"><rect codeLine="158" height="214.683" id="Item" rx="3.1018" ry="3.1018" style="stroke:#2FA4E7;stroke-width:0.7754442649434572;fill:none;" width="174.475" x="326.8498" y="560.0889"/><rect fill="url(#g1thq391fpcbjj0)" height="25.4382" rx="3.1018" ry="3.1018" style="stroke:url(#g1thq391fpcbjj0);stroke-width:0.7754442649434572;" width="174.475" x="326.8498" y="560.0889"/><rect fill="url(#g1thq391fpcbjj0)" height="3.1018" style="stroke:url(#g1thq391fpcbjj0);stroke-width:0.7754442649434572;" width="174.475" x="326.8498" y="582.4253"/><rect codeLine="158" fill="none" height="214.683" id="Item" rx="3.1018" ry="3.1018" style="stroke:#2FA4E7;stroke-width:0.7754442649434572;" width="174.475" x="326.8498" y="560.0889"/><ellipse cx="397.0275" cy="572.808" rx="7.7544" ry="7.7544" style="stroke:#2683B9;stroke-width:0.7754442649434572;fill:none;"/><path d="M398.4693,570.2878 C397.9604,570.0454 397.6333,569.9727 397.1486,569.9727 C395.7189,569.9727 394.6163,571.0996 394.6163,572.5899 L394.6163,573.2078 C394.6163,574.6254 395.7795,575.6553 397.3546,575.6553 C398.021,575.6553 398.6632,575.4857 399.063,575.1828 C399.3901,574.9647 399.5598,574.7223 399.5598,574.5042 C399.5598,574.2619 399.3417,574.0438 399.0994,574.0438 C398.9782,574.0438 398.8691,574.0923 398.7601,574.1892 C398.5057,574.4558 398.5057,574.4558 398.4087,574.5042 C398.1785,574.6496 397.8029,574.7223 397.3788,574.7223 C396.2641,574.7223 395.5493,574.1165 395.5493,573.1836 L395.5493,572.5899 C395.5493,571.6084 396.2399,570.8936 397.185,570.8936 C397.5,570.8936 397.8393,570.9784 398.0937,571.1238 C398.3603,571.2692 398.4572,571.3903 398.5057,571.6084 C398.542,571.8387 398.5541,571.8992 398.6268,571.9719 C398.6995,572.0567 398.8328,572.1052 398.954,572.1052 C399.1115,572.1052 399.2447,572.0325 399.3417,571.9113 C399.4023,571.8265 399.4265,571.7296 399.4265,571.4873 L399.4265,570.7118 C399.4265,570.4816 399.4144,570.4089 399.3538,570.3241 C399.269,570.1787 399.1236,570.0939 398.954,570.0939 C398.7964,570.0939 398.6874,570.1545 398.5662,570.3241 L398.4693,570.2878 Z " fill="#2FA4E7"/><text fill="#343A40" font-family="&quot;Verdana&quot;" font-size="8.5299" lengthAdjust="spacing" textLength="20.1616" x="415.6381" y="575.7609">Item</text><line style="stroke:#2FA4E7;stroke-width:0.7754442649434572;" x1="327.6252" x2="500.5493" y1="585.5271" y2="585.5271"/><rect fill="none" height="4.6527" style="stroke:#2683B9;stroke-width:0.7754442649434572;" width="4.6527" x="333.0533" y="591.7306"/><text fill="#343A40" font-family="&quot;Verdana&quot;" font-size="8.5299" lengthAdjust="spacing" textLength="60.4847" x="345.4604" y="600.4237">xPos : Integer</text><rect fill="none" height="4.6527" style="stroke:#2683B9;stroke-width:0.7754442649434572;" width="4.6527" x="333.0533" y="609.4144"/><text fill="#343A40" font-family="&quot;Verdana&quot;" font-size="8.5299" lengthAdjust="spacing" textLength="60.4847" x="345.4604" y="618.1075">yPos : Integer</text><rect fill="none" height="4.6527" style="stroke:#2683B9;stroke-width:0.7754442649434572;" width="4.6527" x="333.0533" y="627.0981"/><text fill="#343A40" font-family="&quot;Verdana&quot;" font-size="8.5299" lengthAdjust="spacing" textLength="82.9725" x="345.4604" y="635.7912">symbol : Character</text><rect fill="none" height="4.6527" style="stroke:#2683B9;stroke-width:0.7754442649434572;" width="4.6527" x="333.0533" y="644.7819"/><text fill="#343A40" font-family="&quot;Verdana&quot;" font-size="8.5299" lengthAdjust="spacing" textLength="81.4216" x="345.4604" y="653.475">guarded : Boolean</text><line style="stroke:#2FA4E7;stroke-width:0.7754442649434572;" x1="327.6252" x2="500.5493" y1="662.4657" y2="662.4657"/><ellipse cx="335.3796" cy="670.9956" rx="2.3263" ry="2.3263" style="stroke:#2683B9;stroke-width:0.7754442649434572;fill:none;"/><text fill="#343A40" font-family="&quot;Verdana&quot;" font-size="8.5299" lengthAdjust="spacing" textLength="67.4637" x="345.4604" y="677.3623">getX() : Integer</text><ellipse cx="335.3796" cy="688.6793" rx="2.3263" ry="2.3263" style="stroke:#2683B9;stroke-width:0.7754442649434572;fill:none;"/><text fill="#343A40" font-family="&quot;Verdana&quot;" font-size="8.5299" lengthAdjust="spacing" textLength="66.6882" x="345.4604" y="695.0461">getY() : Integer</text><ellipse cx="335.3796" cy="706.3631" rx="2.3263" ry="2.3263" style="stroke:#2683B9;stroke-width:0.7754442649434572;fill:none;"/><text fill="#343A40" font-family="&quot;Verdana&quot;" font-size="8.5299" lengthAdjust="spacing" textLength="124.0711" x="345.4604" y="712.7298">getSymbol() : Character = 0</text><ellipse cx="335.3796" cy="724.0468" rx="2.3263" ry="2.3263" style="stroke:#2683B9;stroke-width:0.7754442649434572;fill:none;"/><text fill="#343A40" font-family="&quot;Verdana&quot;" font-size="8.5299" lengthAdjust="spacing" textLength="147.3344" x="345.4604" y="730.4136">withinRange(Character) : Boolean</text><ellipse cx="335.3796" cy="741.7306" rx="2.3263" ry="2.3263" style="stroke:#2683B9;stroke-width:0.7754442649434572;fill:none;"/><text fill="#343A40" font-family="&quot;Verdana&quot;" font-size="8.5299" lengthAdjust="spacing" textLength="96.1551" x="345.4604" y="748.0974">isGuarded() : Boolean</text><ellipse cx="335.3796" cy="759.4144" rx="2.3263" ry="2.3263" style="stroke:#2683B9;stroke-width:0.7754442649434572;fill:none;"/><text fill="#343A40" font-family="&quot;Verdana&quot;" font-size="8.5299" lengthAdjust="spacing" textLength="96.1551" x="345.4604" y="765.7811">setUnguarded() : Void</text></g><!--MD5=[b0a16f083d971cd5fdb00a761526111f]
+class Potion--><g id="elem_Potion"><rect codeLine="180" height="90.8966" id="Potion" rx="3.1018" ry="3.1018" style="stroke:#2FA4E7;stroke-width:0.7754442649434572;fill:none;" width="135.7027" x="25.2019" y="848.1664"/><rect fill="url(#g1thq391fpcbjj0)" height="25.4382" rx="3.1018" ry="3.1018" style="stroke:url(#g1thq391fpcbjj0);stroke-width:0.7754442649434572;" width="135.7027" x="25.2019" y="848.1664"/><rect fill="url(#g1thq391fpcbjj0)" height="3.1018" style="stroke:url(#g1thq391fpcbjj0);stroke-width:0.7754442649434572;" width="135.7027" x="25.2019" y="870.5028"/><rect codeLine="180" fill="none" height="90.8966" id="Potion" rx="3.1018" ry="3.1018" style="stroke:#2FA4E7;stroke-width:0.7754442649434572;" width="135.7027" x="25.2019" y="848.1664"/><ellipse cx="72.8918" cy="860.8855" rx="7.7544" ry="7.7544" style="stroke:#2683B9;stroke-width:0.7754442649434572;fill:none;"/><path d="M74.3336,858.3653 C73.8247,858.123 73.4976,858.0503 73.0129,858.0503 C71.5832,858.0503 70.4806,859.1771 70.4806,860.6674 L70.4806,861.2853 C70.4806,862.7029 71.6438,863.7328 73.2189,863.7328 C73.8853,863.7328 74.5275,863.5632 74.9273,863.2603 C75.2544,863.0422 75.4241,862.7999 75.4241,862.5818 C75.4241,862.3395 75.206,862.1214 74.9637,862.1214 C74.8425,862.1214 74.7334,862.1698 74.6244,862.2668 C74.37,862.5333 74.37,862.5333 74.273,862.5818 C74.0428,862.7272 73.6672,862.7999 73.2431,862.7999 C72.1284,862.7999 71.4136,862.1941 71.4136,861.2611 L71.4136,860.6674 C71.4136,859.686 72.1042,858.9711 73.0493,858.9711 C73.3643,858.9711 73.7036,859.0559 73.958,859.2013 C74.2246,859.3467 74.3215,859.4679 74.37,859.686 C74.4063,859.9162 74.4184,859.9768 74.4911,860.0495 C74.5638,860.1343 74.6971,860.1828 74.8183,860.1828 C74.9758,860.1828 75.109,860.1101 75.206,859.9889 C75.2666,859.9041 75.2908,859.8071 75.2908,859.5648 L75.2908,858.7894 C75.2908,858.5592 75.2787,858.4865 75.2181,858.4017 C75.1333,858.2563 74.9879,858.1714 74.8183,858.1714 C74.6607,858.1714 74.5517,858.232 74.4305,858.4017 L74.3336,858.3653 Z " fill="#2FA4E7"/><text fill="#343A40" font-family="&quot;Verdana&quot;" font-size="8.5299" lengthAdjust="spacing" textLength="26.3651" x="91.5024" y="863.8385">Potion</text><line style="stroke:#2FA4E7;stroke-width:0.7754442649434572;" x1="25.9774" x2="160.1292" y1="873.6046" y2="873.6046"/><rect fill="none" height="4.6527" style="stroke:#2683B9;stroke-width:0.7754442649434572;" width="4.6527" x="31.4055" y="879.8082"/><text fill="#343A40" font-family="&quot;Verdana&quot;" font-size="8.5299" lengthAdjust="spacing" textLength="108.5622" x="43.8126" y="888.5012">abilitiesVisible : Boolean</text><line style="stroke:#2FA4E7;stroke-width:0.7754442649434572;" x1="25.9774" x2="160.1292" y1="897.4919" y2="897.4919"/><ellipse cx="33.7318" cy="906.0218" rx="2.3263" ry="2.3263" style="stroke:#2683B9;stroke-width:0.7754442649434572;fill:none;"/><text fill="#343A40" font-family="&quot;Verdana&quot;" font-size="8.5299" lengthAdjust="spacing" textLength="73.6672" x="43.8126" y="912.3886">consume() : void</text><ellipse cx="33.7318" cy="923.7056" rx="2.3263" ry="2.3263" style="stroke:#2683B9;stroke-width:0.7754442649434572;fill:none;"/><text fill="#343A40" font-family="&quot;Verdana&quot;" font-size="8.5299" lengthAdjust="spacing" textLength="105.4604" x="43.8126" y="930.0723">getSymbol() : Character</text></g><!--MD5=[3ff8fae88b5f9bfb4245ef7461ad2891]
+class Compass--><g id="elem_Compass"><rect codeLine="187" height="55.5291" id="Compass" rx="3.1018" ry="3.1018" style="stroke:#2FA4E7;stroke-width:0.7754442649434572;fill:none;" width="132.601" x="188.0452" y="865.6139"/><rect fill="url(#g1thq391fpcbjj0)" height="25.4382" rx="3.1018" ry="3.1018" style="stroke:url(#g1thq391fpcbjj0);stroke-width:0.7754442649434572;" width="132.601" x="188.0452" y="865.6139"/><rect fill="url(#g1thq391fpcbjj0)" height="3.1018" style="stroke:url(#g1thq391fpcbjj0);stroke-width:0.7754442649434572;" width="132.601" x="188.0452" y="887.9503"/><rect codeLine="187" fill="none" height="55.5291" id="Compass" rx="3.1018" ry="3.1018" style="stroke:#2FA4E7;stroke-width:0.7754442649434572;" width="132.601" x="188.0452" y="865.6139"/><ellipse cx="227.2052" cy="878.333" rx="7.7544" ry="7.7544" style="stroke:#2683B9;stroke-width:0.7754442649434572;fill:none;"/><path d="M228.647,875.8128 C228.1381,875.5705 227.811,875.4978 227.3263,875.4978 C225.8966,875.4978 224.794,876.6246 224.794,878.1149 L224.794,878.7328 C224.794,880.1504 225.9572,881.1803 227.5323,881.1803 C228.1987,881.1803 228.8409,881.0107 229.2407,880.7078 C229.5679,880.4897 229.7375,880.2474 229.7375,880.0293 C229.7375,879.787 229.5194,879.5689 229.2771,879.5689 C229.1559,879.5689 229.0468,879.6173 228.9378,879.7143 C228.6834,879.9808 228.6834,879.9808 228.5864,880.0293 C228.3562,880.1747 227.9806,880.2474 227.5565,880.2474 C226.4418,880.2474 225.727,879.6416 225.727,878.7086 L225.727,878.1149 C225.727,877.1335 226.4176,876.4186 227.3627,876.4186 C227.6777,876.4186 228.017,876.5034 228.2714,876.6488 C228.538,876.7942 228.6349,876.9154 228.6834,877.1335 C228.7197,877.3637 228.7318,877.4243 228.8045,877.497 C228.8772,877.5818 229.0105,877.6303 229.1317,877.6303 C229.2892,877.6303 229.4225,877.5576 229.5194,877.4364 C229.58,877.3516 229.6042,877.2546 229.6042,877.0123 L229.6042,876.2369 C229.6042,876.0067 229.5921,875.934 229.5315,875.8492 C229.4467,875.7038 229.3013,875.6189 229.1317,875.6189 C228.9742,875.6189 228.8651,875.6795 228.7439,875.8492 L228.647,875.8128 Z " fill="#2FA4E7"/><text fill="#343A40" font-family="&quot;Verdana&quot;" font-size="8.5299" lengthAdjust="spacing" textLength="40.3231" x="245.8158" y="881.286">Compass</text><line style="stroke:#2FA4E7;stroke-width:0.7754442649434572;" x1="188.8207" x2="319.8708" y1="891.0521" y2="891.0521"/><line style="stroke:#2FA4E7;stroke-width:0.7754442649434572;" x1="188.8207" x2="319.8708" y1="897.2557" y2="897.2557"/><ellipse cx="196.5751" cy="905.7855" rx="2.3263" ry="2.3263" style="stroke:#2683B9;stroke-width:0.7754442649434572;fill:none;"/><text fill="#343A40" font-family="&quot;Verdana&quot;" font-size="8.5299" lengthAdjust="spacing" textLength="105.4604" x="206.6559" y="912.1523">getSymbol() : Character</text></g><!--MD5=[287929cf111333c1a9e1366d76913973]
+class BarrierSuit--><g id="elem_BarrierSuit"><rect codeLine="191" height="55.5291" id="BarrierSuit" rx="3.1018" ry="3.1018" style="stroke:#2FA4E7;stroke-width:0.7754442649434572;fill:none;" width="132.601" x="347.7868" y="865.6139"/><rect fill="url(#g1thq391fpcbjj0)" height="25.4382" rx="3.1018" ry="3.1018" style="stroke:url(#g1thq391fpcbjj0);stroke-width:0.7754442649434572;" width="132.601" x="347.7868" y="865.6139"/><rect fill="url(#g1thq391fpcbjj0)" height="3.1018" style="stroke:url(#g1thq391fpcbjj0);stroke-width:0.7754442649434572;" width="132.601" x="347.7868" y="887.9503"/><rect codeLine="191" fill="none" height="55.5291" id="BarrierSuit" rx="3.1018" ry="3.1018" style="stroke:#2FA4E7;stroke-width:0.7754442649434572;" width="132.601" x="347.7868" y="865.6139"/><ellipse cx="383.8449" cy="878.333" rx="7.7544" ry="7.7544" style="stroke:#2683B9;stroke-width:0.7754442649434572;fill:none;"/><path d="M385.2868,875.8128 C384.7779,875.5705 384.4507,875.4978 383.9661,875.4978 C382.5363,875.4978 381.4338,876.6246 381.4338,878.1149 L381.4338,878.7328 C381.4338,880.1504 382.5969,881.1803 384.1721,881.1803 C384.8384,881.1803 385.4806,881.0107 385.8805,880.7078 C386.2076,880.4897 386.3772,880.2474 386.3772,880.0293 C386.3772,879.787 386.1591,879.5689 385.9168,879.5689 C385.7956,879.5689 385.6866,879.6173 385.5775,879.7143 C385.3231,879.9808 385.3231,879.9808 385.2262,880.0293 C384.996,880.1747 384.6204,880.2474 384.1963,880.2474 C383.0816,880.2474 382.3667,879.6416 382.3667,878.7086 L382.3667,878.1149 C382.3667,877.1335 383.0574,876.4186 384.0024,876.4186 C384.3174,876.4186 384.6567,876.5034 384.9111,876.6488 C385.1777,876.7942 385.2746,876.9154 385.3231,877.1335 C385.3595,877.3637 385.3716,877.4243 385.4443,877.497 C385.517,877.5818 385.6502,877.6303 385.7714,877.6303 C385.9289,877.6303 386.0622,877.5576 386.1591,877.4364 C386.2197,877.3516 386.2439,877.2546 386.2439,877.0123 L386.2439,876.2369 C386.2439,876.0067 386.2318,875.934 386.1712,875.8492 C386.0864,875.7038 385.941,875.6189 385.7714,875.6189 C385.6139,875.6189 385.5048,875.6795 385.3837,875.8492 L385.2868,875.8128 Z " fill="#2FA4E7"/><text fill="#343A40" font-family="&quot;Verdana&quot;" font-size="8.5299" lengthAdjust="spacing" textLength="46.5267" x="402.4556" y="881.286">BarrierSuit</text><line style="stroke:#2FA4E7;stroke-width:0.7754442649434572;" x1="348.5622" x2="479.6123" y1="891.0521" y2="891.0521"/><line style="stroke:#2FA4E7;stroke-width:0.7754442649434572;" x1="348.5622" x2="479.6123" y1="897.2557" y2="897.2557"/><ellipse cx="356.3166" cy="905.7855" rx="2.3263" ry="2.3263" style="stroke:#2683B9;stroke-width:0.7754442649434572;fill:none;"/><text fill="#343A40" font-family="&quot;Verdana&quot;" font-size="8.5299" lengthAdjust="spacing" textLength="105.4604" x="366.3974" y="912.1523">getSymbol() : Character</text></g><!--MD5=[b6dcce5e5ef3c84b0b048d11301373dd]
+class Game--><g id="elem_Game"><rect codeLine="201" height="232.3667" id="Game" rx="3.1018" ry="3.1018" style="stroke:#2FA4E7;stroke-width:0.7754442649434572;fill:none;" width="218.6753" x="958.4491" y="192.5283"/><rect fill="url(#g1thq391fpcbjj0)" height="25.4382" rx="3.1018" ry="3.1018" style="stroke:url(#g1thq391fpcbjj0);stroke-width:0.7754442649434572;" width="218.6753" x="958.4491" y="192.5283"/><rect fill="url(#g1thq391fpcbjj0)" height="3.1018" style="stroke:url(#g1thq391fpcbjj0);stroke-width:0.7754442649434572;" width="218.6753" x="958.4491" y="214.8647"/><rect codeLine="201" fill="none" height="232.3667" id="Game" rx="3.1018" ry="3.1018" style="stroke:#2FA4E7;stroke-width:0.7754442649434572;" width="218.6753" x="958.4491" y="192.5283"/><ellipse cx="1047.2375" cy="205.2474" rx="7.7544" ry="7.7544" style="stroke:#2683B9;stroke-width:0.7754442649434572;fill:none;"/><path d="M1048.6793,202.7272 C1048.1704,202.4849 1047.8433,202.4122 1047.3586,202.4122 C1045.9289,202.4122 1044.8263,203.539 1044.8263,205.0293 L1044.8263,205.6472 C1044.8263,207.0648 1045.9895,208.0947 1047.5646,208.0947 C1048.231,208.0947 1048.8732,207.9251 1049.273,207.6222 C1049.6002,207.4041 1049.7698,207.1618 1049.7698,206.9437 C1049.7698,206.7013 1049.5517,206.4832 1049.3094,206.4832 C1049.1882,206.4832 1049.0792,206.5317 1048.9701,206.6286 C1048.7157,206.8952 1048.7157,206.8952 1048.6187,206.9437 C1048.3885,207.0891 1048.0129,207.1618 1047.5889,207.1618 C1046.4742,207.1618 1045.7593,206.5559 1045.7593,205.623 L1045.7593,205.0293 C1045.7593,204.0479 1046.4499,203.333 1047.395,203.333 C1047.71,203.333 1048.0493,203.4178 1048.3037,203.5632 C1048.5703,203.7086 1048.6672,203.8298 1048.7157,204.0479 C1048.752,204.2781 1048.7641,204.3387 1048.8368,204.4113 C1048.9095,204.4962 1049.0428,204.5446 1049.164,204.5446 C1049.3215,204.5446 1049.4548,204.4719 1049.5517,204.3508 C1049.6123,204.266 1049.6365,204.169 1049.6365,203.9267 L1049.6365,203.1513 C1049.6365,202.921 1049.6244,202.8483 1049.5638,202.7635 C1049.479,202.6181 1049.3336,202.5333 1049.164,202.5333 C1049.0065,202.5333 1048.8974,202.5939 1048.7763,202.7635 L1048.6793,202.7272 Z " fill="#2FA4E7"/><text fill="#343A40" font-family="&quot;Verdana&quot;" font-size="8.5299" lengthAdjust="spacing" textLength="27.1405" x="1065.8481" y="208.2003">Game</text><line style="stroke:#2FA4E7;stroke-width:0.7754442649434572;" x1="959.2246" x2="1176.3489" y1="217.9665" y2="217.9665"/><rect fill="none" height="4.6527" style="stroke:#2683B9;stroke-width:0.7754442649434572;" width="4.6527" x="964.6527" y="224.17"/><text fill="#343A40" font-family="&quot;Verdana&quot;" font-size="8.5299" lengthAdjust="spacing" textLength="53.5057" x="977.0598" y="232.8631">floor : *Floor</text><rect fill="none" height="4.6527" style="stroke:#2683B9;stroke-width:0.7754442649434572;" width="4.6527" x="964.6527" y="241.8538"/><text fill="#343A40" font-family="&quot;Verdana&quot;" font-size="8.5299" lengthAdjust="spacing" textLength="110.1131" x="977.0598" y="250.5469">barrierSuitFloor  : Integer</text><rect fill="none" height="4.6527" style="stroke:#2683B9;stroke-width:0.7754442649434572;" width="4.6527" x="964.6527" y="259.5376"/><text fill="#343A40" font-family="&quot;Verdana&quot;" font-size="8.5299" lengthAdjust="spacing" textLength="67.4637" x="977.0598" y="268.2306">playa : Player *</text><line style="stroke:#2FA4E7;stroke-width:0.7754442649434572;" x1="959.2246" x2="1176.3489" y1="277.2213" y2="277.2213"/><ellipse cx="966.979" cy="285.7512" rx="2.3263" ry="2.3263" style="stroke:#2683B9;stroke-width:0.7754442649434572;fill:none;"/><text fill="#343A40" font-family="&quot;Verdana&quot;" font-size="8.5299" lengthAdjust="spacing" textLength="66.6882" x="977.0598" y="292.118">init(race) : Void</text><ellipse cx="966.979" cy="303.435" rx="2.3263" ry="2.3263" style="stroke:#2683B9;stroke-width:0.7754442649434572;fill:none;"/><text fill="#343A40" font-family="&quot;Verdana&quot;" font-size="8.5299" lengthAdjust="spacing" textLength="97.706" x="977.0598" y="309.8017">generateFloor() : Floor</text><ellipse cx="966.979" cy="321.1187" rx="2.3263" ry="2.3263" style="stroke:#2683B9;stroke-width:0.7754442649434572;fill:none;"/><text fill="#343A40" font-family="&quot;Verdana&quot;" font-size="8.5299" lengthAdjust="spacing" textLength="128.7237" x="977.0598" y="327.4855">move(integer, integer) : Void</text><ellipse cx="966.979" cy="338.8025" rx="2.3263" ry="2.3263" style="stroke:#2683B9;stroke-width:0.7754442649434572;fill:none;"/><text fill="#343A40" font-family="&quot;Verdana&quot;" font-size="8.5299" lengthAdjust="spacing" textLength="60.4847" x="977.0598" y="345.1692">attack() : Void</text><ellipse cx="966.979" cy="356.4863" rx="2.3263" ry="2.3263" style="stroke:#2683B9;stroke-width:0.7754442649434572;fill:none;"/><text fill="#343A40" font-family="&quot;Verdana&quot;" font-size="8.5299" lengthAdjust="spacing" textLength="73.6672" x="977.0598" y="362.853">usePotion(): Void</text><ellipse cx="966.979" cy="374.17" rx="2.3263" ry="2.3263" style="stroke:#2683B9;stroke-width:0.7754442649434572;fill:none;"/><text fill="#343A40" font-family="&quot;Verdana&quot;" font-size="8.5299" lengthAdjust="spacing" textLength="62.811" x="977.0598" y="380.5368">restart() : Void</text><ellipse cx="966.979" cy="391.8538" rx="2.3263" ry="2.3263" style="stroke:#2683B9;stroke-width:0.7754442649434572;fill:none;"/><text fill="#343A40" font-family="&quot;Verdana&quot;" font-size="8.5299" lengthAdjust="spacing" textLength="50.4039" x="977.0598" y="398.2205">quit() : Void</text><ellipse cx="966.979" cy="409.5376" rx="2.3263" ry="2.3263" style="stroke:#2683B9;stroke-width:0.7754442649434572;fill:none;"/><text fill="#343A40" font-family="&quot;Verdana&quot;" font-size="8.5299" lengthAdjust="spacing" textLength="191.5347" x="977.0598" y="415.9043">operator &lt;&lt; (ostream&amp;, Game) : ostream&amp;</text></g><!--MD5=[b098efa4dd65edfeebe973e4edec7c36]
+class Floor--><g id="elem_Floor"><rect codeLine="217" height="232.3667" id="Floor" rx="3.1018" ry="3.1018" style="stroke:#2FA4E7;stroke-width:0.7754442649434572;fill:none;" width="212.4717" x="558.3199" y="192.5283"/><rect fill="url(#g1thq391fpcbjj0)" height="25.4382" rx="3.1018" ry="3.1018" style="stroke:url(#g1thq391fpcbjj0);stroke-width:0.7754442649434572;" width="212.4717" x="558.3199" y="192.5283"/><rect fill="url(#g1thq391fpcbjj0)" height="3.1018" style="stroke:url(#g1thq391fpcbjj0);stroke-width:0.7754442649434572;" width="212.4717" x="558.3199" y="214.8647"/><rect codeLine="217" fill="none" height="232.3667" id="Floor" rx="3.1018" ry="3.1018" style="stroke:#2FA4E7;stroke-width:0.7754442649434572;" width="212.4717" x="558.3199" y="192.5283"/><ellipse cx="647.1082" cy="205.2474" rx="7.7544" ry="7.7544" style="stroke:#2683B9;stroke-width:0.7754442649434572;fill:none;"/><path d="M648.5501,202.7272 C648.0412,202.4849 647.7141,202.4122 647.2294,202.4122 C645.7997,202.4122 644.6971,203.539 644.6971,205.0293 L644.6971,205.6472 C644.6971,207.0648 645.8603,208.0947 647.4354,208.0947 C648.1018,208.0947 648.7439,207.9251 649.1438,207.6222 C649.4709,207.4041 649.6405,207.1618 649.6405,206.9437 C649.6405,206.7013 649.4225,206.4832 649.1801,206.4832 C649.059,206.4832 648.9499,206.5317 648.8409,206.6286 C648.5864,206.8952 648.5864,206.8952 648.4895,206.9437 C648.2593,207.0891 647.8837,207.1618 647.4596,207.1618 C646.3449,207.1618 645.63,206.5559 645.63,205.623 L645.63,205.0293 C645.63,204.0479 646.3207,203.333 647.2658,203.333 C647.5808,203.333 647.92,203.4178 648.1745,203.5632 C648.441,203.7086 648.538,203.8298 648.5864,204.0479 C648.6228,204.2781 648.6349,204.3387 648.7076,204.4113 C648.7803,204.4962 648.9136,204.5446 649.0347,204.5446 C649.1922,204.5446 649.3255,204.4719 649.4225,204.3508 C649.483,204.266 649.5073,204.169 649.5073,203.9267 L649.5073,203.1513 C649.5073,202.921 649.4952,202.8483 649.4346,202.7635 C649.3498,202.6181 649.2044,202.5333 649.0347,202.5333 C648.8772,202.5333 648.7682,202.5939 648.647,202.7635 L648.5501,202.7272 Z " fill="#2FA4E7"/><text fill="#343A40" font-family="&quot;Verdana&quot;" font-size="8.5299" lengthAdjust="spacing" textLength="20.937" x="665.7189" y="208.2003">Floor</text><line style="stroke:#2FA4E7;stroke-width:0.7754442649434572;" x1="559.0953" x2="770.0162" y1="217.9665" y2="217.9665"/><rect fill="none" height="4.6527" style="stroke:#2683B9;stroke-width:0.7754442649434572;" width="4.6527" x="564.5234" y="224.17"/><text fill="#343A40" font-family="&quot;Verdana&quot;" font-size="8.5299" lengthAdjust="spacing" textLength="118.643" x="576.9305" y="232.8631">stairRoomNumber : Integer</text><rect fill="none" height="4.6527" style="stroke:#2683B9;stroke-width:0.7754442649434572;" width="4.6527" x="564.5234" y="241.8538"/><text fill="#343A40" font-family="&quot;Verdana&quot;" font-size="8.5299" lengthAdjust="spacing" textLength="98.4814" x="576.9305" y="250.5469">visibleStairs : Boolean</text><rect fill="none" height="4.6527" style="stroke:#2683B9;stroke-width:0.7754442649434572;" width="4.6527" x="564.5234" y="259.5376"/><text fill="#343A40" font-family="&quot;Verdana&quot;" font-size="8.5299" lengthAdjust="spacing" textLength="96.1551" x="576.9305" y="268.2306">items : Vector&lt;Item&gt;</text><rect fill="none" height="4.6527" style="stroke:#2683B9;stroke-width:0.7754442649434572;" width="4.6527" x="564.5234" y="277.2213"/><text fill="#343A40" font-family="&quot;Verdana&quot;" font-size="8.5299" lengthAdjust="spacing" textLength="133.3764" x="576.9305" y="285.9144">enemies : Vector&lt;Character&gt;</text><line style="stroke:#2FA4E7;stroke-width:0.7754442649434572;" x1="559.0953" x2="770.0162" y1="294.9051" y2="294.9051"/><ellipse cx="566.8498" cy="303.435" rx="2.3263" ry="2.3263" style="stroke:#2683B9;stroke-width:0.7754442649434572;fill:none;"/><text fill="#343A40" font-family="&quot;Verdana&quot;" font-size="8.5299" lengthAdjust="spacing" textLength="96.1551" x="576.9305" y="309.8017">generateFloor() : Void</text><ellipse cx="566.8498" cy="321.1187" rx="2.3263" ry="2.3263" style="stroke:#2683B9;stroke-width:0.7754442649434572;fill:none;"/><text fill="#343A40" font-family="&quot;Verdana&quot;" font-size="8.5299" lengthAdjust="spacing" textLength="116.3166" x="576.9305" y="327.4855">spawnPlayer(Player) : Void</text><ellipse cx="566.8498" cy="338.8025" rx="2.3263" ry="2.3263" style="stroke:#2683B9;stroke-width:0.7754442649434572;fill:none;"/><text fill="#343A40" font-family="&quot;Verdana&quot;" font-size="8.5299" lengthAdjust="spacing" textLength="86.8498" x="576.9305" y="345.1692">spawnStairs() : Void</text><ellipse cx="566.8498" cy="356.4863" rx="2.3263" ry="2.3263" style="stroke:#2683B9;stroke-width:0.7754442649434572;fill:none;"/><text fill="#343A40" font-family="&quot;Verdana&quot;" font-size="8.5299" lengthAdjust="spacing" textLength="86.8498" x="576.9305" y="362.853">spawnItems() : Void</text><ellipse cx="566.8498" cy="374.17" rx="2.3263" ry="2.3263" style="stroke:#2683B9;stroke-width:0.7754442649434572;fill:none;"/><text fill="#343A40" font-family="&quot;Verdana&quot;" font-size="8.5299" lengthAdjust="spacing" textLength="100.8078" x="576.9305" y="380.5368">spawnEnemies() : Void</text><ellipse cx="566.8498" cy="391.8538" rx="2.3263" ry="2.3263" style="stroke:#2683B9;stroke-width:0.7754442649434572;fill:none;"/><text fill="#343A40" font-family="&quot;Verdana&quot;" font-size="8.5299" lengthAdjust="spacing" textLength="121.7447" x="576.9305" y="398.2205">generateBarrierSuit() : Void</text><ellipse cx="566.8498" cy="409.5376" rx="2.3263" ry="2.3263" style="stroke:#2683B9;stroke-width:0.7754442649434572;fill:none;"/><text fill="#343A40" font-family="&quot;Verdana&quot;" font-size="8.5299" lengthAdjust="spacing" textLength="185.3312" x="576.9305" y="415.9043">operator &lt;&lt; (ostream&amp;, Floor) : ostream&amp;</text></g><!--MD5=[e4b4f98d0c0cd14ef16df5a312c630e5]
+class BoostAtk--><g id="elem_BoostAtk"><rect codeLine="79" height="55.5291" id="BoostAtk" rx="3.1018" ry="3.1018" style="stroke:#2FA4E7;stroke-width:0.7754442649434572;fill:none;" width="114.7658" x="2165.0404" y="1029.6204"/><rect fill="url(#g1thq391fpcbjj0)" height="25.4382" rx="3.1018" ry="3.1018" style="stroke:url(#g1thq391fpcbjj0);stroke-width:0.7754442649434572;" width="114.7658" x="2165.0404" y="1029.6204"/><rect fill="url(#g1thq391fpcbjj0)" height="3.1018" style="stroke:url(#g1thq391fpcbjj0);stroke-width:0.7754442649434572;" width="114.7658" x="2165.0404" y="1051.9568"/><rect codeLine="79" fill="none" height="55.5291" id="BoostAtk" rx="3.1018" ry="3.1018" style="stroke:#2FA4E7;stroke-width:0.7754442649434572;" width="114.7658" x="2165.0404" y="1029.6204"/><ellipse cx="2196.1357" cy="1042.3395" rx="7.7544" ry="7.7544" style="stroke:#2683B9;stroke-width:0.7754442649434572;fill:none;"/><path d="M2197.5775,1039.8193 C2197.0687,1039.5769 2196.7415,1039.5042 2196.2569,1039.5042 C2194.8271,1039.5042 2193.7246,1040.6311 2193.7246,1042.1214 L2193.7246,1042.7393 C2193.7246,1044.1569 2194.8877,1045.1868 2196.4628,1045.1868 C2197.1292,1045.1868 2197.7714,1045.0172 2198.1712,1044.7143 C2198.4984,1044.4962 2198.668,1044.2538 2198.668,1044.0357 C2198.668,1043.7934 2198.4499,1043.5753 2198.2076,1043.5753 C2198.0864,1043.5753 2197.9774,1043.6238 2197.8683,1043.7207 C2197.6139,1043.9873 2197.6139,1043.9873 2197.517,1044.0357 C2197.2868,1044.1811 2196.9111,1044.2538 2196.4871,1044.2538 C2195.3724,1044.2538 2194.6575,1043.648 2194.6575,1042.7151 L2194.6575,1042.1214 C2194.6575,1041.1399 2195.3481,1040.4251 2196.2932,1040.4251 C2196.6082,1040.4251 2196.9475,1040.5099 2197.2019,1040.6553 C2197.4685,1040.8007 2197.5654,1040.9218 2197.6139,1041.1399 C2197.6502,1041.3702 2197.6624,1041.4307 2197.7351,1041.5034 C2197.8078,1041.5882 2197.941,1041.6367 2198.0622,1041.6367 C2198.2197,1041.6367 2198.353,1041.564 2198.4499,1041.4429 C2198.5105,1041.358 2198.5347,1041.2611 2198.5347,1041.0188 L2198.5347,1040.2433 C2198.5347,1040.0131 2198.5226,1039.9404 2198.462,1039.8556 C2198.3772,1039.7102 2198.2318,1039.6254 2198.0622,1039.6254 C2197.9047,1039.6254 2197.7956,1039.686 2197.6745,1039.8556 L2197.5775,1039.8193 Z " fill="#2FA4E7"/><text fill="#343A40" font-family="&quot;Verdana&quot;" font-size="8.5299" lengthAdjust="spacing" textLength="38.7722" x="2214.5913" y="1045.2924">BoostAtk</text><line style="stroke:#2FA4E7;stroke-width:0.7754442649434572;" x1="2165.8158" x2="2279.0307" y1="1055.0586" y2="1055.0586"/><line style="stroke:#2FA4E7;stroke-width:0.7754442649434572;" x1="2165.8158" x2="2279.0307" y1="1061.2621" y2="1061.2621"/><ellipse cx="2173.5703" cy="1069.792" rx="2.3263" ry="2.3263" style="stroke:#2683B9;stroke-width:0.7754442649434572;fill:none;"/><text fill="#343A40" font-family="&quot;Verdana&quot;" font-size="8.5299" lengthAdjust="spacing" textLength="87.6252" x="2183.6511" y="1076.1587">updateStats() : Void</text></g><!--MD5=[c17b02809f73d63b15708e8c22337f8e]
+class WoundAtk--><g id="elem_WoundAtk"><rect codeLine="84" height="55.5291" id="WoundAtk" rx="3.1018" ry="3.1018" style="stroke:#2FA4E7;stroke-width:0.7754442649434572;fill:none;" width="114.7658" x="2023.1341" y="1029.6204"/><rect fill="url(#g1thq391fpcbjj0)" height="25.4382" rx="3.1018" ry="3.1018" style="stroke:url(#g1thq391fpcbjj0);stroke-width:0.7754442649434572;" width="114.7658" x="2023.1341" y="1029.6204"/><rect fill="url(#g1thq391fpcbjj0)" height="3.1018" style="stroke:url(#g1thq391fpcbjj0);stroke-width:0.7754442649434572;" width="114.7658" x="2023.1341" y="1051.9568"/><rect codeLine="84" fill="none" height="55.5291" id="WoundAtk" rx="3.1018" ry="3.1018" style="stroke:#2FA4E7;stroke-width:0.7754442649434572;" width="114.7658" x="2023.1341" y="1029.6204"/><ellipse cx="2051.7868" cy="1042.3395" rx="7.7544" ry="7.7544" style="stroke:#2683B9;stroke-width:0.7754442649434572;fill:none;"/><path d="M2053.2286,1039.8193 C2052.7197,1039.5769 2052.3926,1039.5042 2051.9079,1039.5042 C2050.4782,1039.5042 2049.3756,1040.6311 2049.3756,1042.1214 L2049.3756,1042.7393 C2049.3756,1044.1569 2050.5388,1045.1868 2052.1139,1045.1868 C2052.7803,1045.1868 2053.4225,1045.0172 2053.8223,1044.7143 C2054.1494,1044.4962 2054.3191,1044.2538 2054.3191,1044.0357 C2054.3191,1043.7934 2054.101,1043.5753 2053.8586,1043.5753 C2053.7375,1043.5753 2053.6284,1043.6238 2053.5194,1043.7207 C2053.2649,1043.9873 2053.2649,1043.9873 2053.168,1044.0357 C2052.9378,1044.1811 2052.5622,1044.2538 2052.1381,1044.2538 C2051.0234,1044.2538 2050.3086,1043.648 2050.3086,1042.7151 L2050.3086,1042.1214 C2050.3086,1041.1399 2050.9992,1040.4251 2051.9443,1040.4251 C2052.2593,1040.4251 2052.5985,1040.5099 2052.853,1040.6553 C2053.1195,1040.8007 2053.2165,1040.9218 2053.2649,1041.1399 C2053.3013,1041.3702 2053.3134,1041.4307 2053.3861,1041.5034 C2053.4588,1041.5882 2053.5921,1041.6367 2053.7132,1041.6367 C2053.8708,1041.6367 2054.004,1041.564 2054.101,1041.4429 C2054.1616,1041.358 2054.1858,1041.2611 2054.1858,1041.0188 L2054.1858,1040.2433 C2054.1858,1040.0131 2054.1737,1039.9404 2054.1131,1039.8556 C2054.0283,1039.7102 2053.8829,1039.6254 2053.7132,1039.6254 C2053.5557,1039.6254 2053.4467,1039.686 2053.3255,1039.8556 L2053.2286,1039.8193 Z " fill="#2FA4E7"/><text fill="#343A40" font-family="&quot;Verdana&quot;" font-size="8.5299" lengthAdjust="spacing" textLength="44.2003" x="2069.6995" y="1045.2924">WoundAtk</text><line style="stroke:#2FA4E7;stroke-width:0.7754442649434572;" x1="2023.9095" x2="2137.1244" y1="1055.0586" y2="1055.0586"/><line style="stroke:#2FA4E7;stroke-width:0.7754442649434572;" x1="2023.9095" x2="2137.1244" y1="1061.2621" y2="1061.2621"/><ellipse cx="2031.664" cy="1069.792" rx="2.3263" ry="2.3263" style="stroke:#2683B9;stroke-width:0.7754442649434572;fill:none;"/><text fill="#343A40" font-family="&quot;Verdana&quot;" font-size="8.5299" lengthAdjust="spacing" textLength="87.6252" x="2041.7447" y="1076.1587">updateStats() : Void</text></g><!--MD5=[b5ce1376e3134bb1a8079a51e83d20fe]
+class BoostDef--><g id="elem_BoostDef"><rect codeLine="89" height="55.5291" id="BoostDef" rx="3.1018" ry="3.1018" style="stroke:#2FA4E7;stroke-width:0.7754442649434572;fill:none;" width="114.7658" x="1881.2278" y="1029.6204"/><rect fill="url(#g1thq391fpcbjj0)" height="25.4382" rx="3.1018" ry="3.1018" style="stroke:url(#g1thq391fpcbjj0);stroke-width:0.7754442649434572;" width="114.7658" x="1881.2278" y="1029.6204"/><rect fill="url(#g1thq391fpcbjj0)" height="3.1018" style="stroke:url(#g1thq391fpcbjj0);stroke-width:0.7754442649434572;" width="114.7658" x="1881.2278" y="1051.9568"/><rect codeLine="89" fill="none" height="55.5291" id="BoostDef" rx="3.1018" ry="3.1018" style="stroke:#2FA4E7;stroke-width:0.7754442649434572;" width="114.7658" x="1881.2278" y="1029.6204"/><ellipse cx="1911.2763" cy="1042.3395" rx="7.7544" ry="7.7544" style="stroke:#2683B9;stroke-width:0.7754442649434572;fill:none;"/><path d="M1912.7181,1039.8193 C1912.2092,1039.5769 1911.8821,1039.5042 1911.3974,1039.5042 C1909.9677,1039.5042 1908.8651,1040.6311 1908.8651,1042.1214 L1908.8651,1042.7393 C1908.8651,1044.1569 1910.0283,1045.1868 1911.6034,1045.1868 C1912.2698,1045.1868 1912.912,1045.0172 1913.3118,1044.7143 C1913.6389,1044.4962 1913.8086,1044.2538 1913.8086,1044.0357 C1913.8086,1043.7934 1913.5905,1043.5753 1913.3481,1043.5753 C1913.227,1043.5753 1913.1179,1043.6238 1913.0089,1043.7207 C1912.7544,1043.9873 1912.7544,1043.9873 1912.6575,1044.0357 C1912.4273,1044.1811 1912.0517,1044.2538 1911.6276,1044.2538 C1910.5129,1044.2538 1909.7981,1043.648 1909.7981,1042.7151 L1909.7981,1042.1214 C1909.7981,1041.1399 1910.4887,1040.4251 1911.4338,1040.4251 C1911.7488,1040.4251 1912.088,1040.5099 1912.3425,1040.6553 C1912.609,1040.8007 1912.706,1040.9218 1912.7544,1041.1399 C1912.7908,1041.3702 1912.8029,1041.4307 1912.8756,1041.5034 C1912.9483,1041.5882 1913.0816,1041.6367 1913.2027,1041.6367 C1913.3603,1041.6367 1913.4935,1041.564 1913.5905,1041.4429 C1913.6511,1041.358 1913.6753,1041.2611 1913.6753,1041.0188 L1913.6753,1040.2433 C1913.6753,1040.0131 1913.6632,1039.9404 1913.6026,1039.8556 C1913.5178,1039.7102 1913.3724,1039.6254 1913.2027,1039.6254 C1913.0452,1039.6254 1912.9362,1039.686 1912.815,1039.8556 L1912.7181,1039.8193 Z " fill="#2FA4E7"/><text fill="#343A40" font-family="&quot;Verdana&quot;" font-size="8.5299" lengthAdjust="spacing" textLength="41.0985" x="1929.4992" y="1045.2924">BoostDef</text><line style="stroke:#2FA4E7;stroke-width:0.7754442649434572;" x1="1882.0032" x2="1995.2181" y1="1055.0586" y2="1055.0586"/><line style="stroke:#2FA4E7;stroke-width:0.7754442649434572;" x1="1882.0032" x2="1995.2181" y1="1061.2621" y2="1061.2621"/><ellipse cx="1889.7577" cy="1069.792" rx="2.3263" ry="2.3263" style="stroke:#2683B9;stroke-width:0.7754442649434572;fill:none;"/><text fill="#343A40" font-family="&quot;Verdana&quot;" font-size="8.5299" lengthAdjust="spacing" textLength="87.6252" x="1899.8384" y="1076.1587">updateStats() : Void</text></g><!--MD5=[0928a1f0e56307e64bd4c22dc74e8a38]
+class WoundDef--><g id="elem_WoundDef"><rect codeLine="93" height="55.5291" id="WoundDef" rx="3.1018" ry="3.1018" style="stroke:#2FA4E7;stroke-width:0.7754442649434572;fill:none;" width="114.7658" x="1739.3215" y="1029.6204"/><rect fill="url(#g1thq391fpcbjj0)" height="25.4382" rx="3.1018" ry="3.1018" style="stroke:url(#g1thq391fpcbjj0);stroke-width:0.7754442649434572;" width="114.7658" x="1739.3215" y="1029.6204"/><rect fill="url(#g1thq391fpcbjj0)" height="3.1018" style="stroke:url(#g1thq391fpcbjj0);stroke-width:0.7754442649434572;" width="114.7658" x="1739.3215" y="1051.9568"/><rect codeLine="93" fill="none" height="55.5291" id="WoundDef" rx="3.1018" ry="3.1018" style="stroke:#2FA4E7;stroke-width:0.7754442649434572;" width="114.7658" x="1739.3215" y="1029.6204"/><ellipse cx="1766.9273" cy="1042.3395" rx="7.7544" ry="7.7544" style="stroke:#2683B9;stroke-width:0.7754442649434572;fill:none;"/><path d="M1768.3691,1039.8193 C1767.8603,1039.5769 1767.5331,1039.5042 1767.0485,1039.5042 C1765.6187,1039.5042 1764.5162,1040.6311 1764.5162,1042.1214 L1764.5162,1042.7393 C1764.5162,1044.1569 1765.6793,1045.1868 1767.2544,1045.1868 C1767.9208,1045.1868 1768.563,1045.0172 1768.9628,1044.7143 C1769.29,1044.4962 1769.4596,1044.2538 1769.4596,1044.0357 C1769.4596,1043.7934 1769.2415,1043.5753 1768.9992,1043.5753 C1768.878,1043.5753 1768.769,1043.6238 1768.6599,1043.7207 C1768.4055,1043.9873 1768.4055,1043.9873 1768.3086,1044.0357 C1768.0784,1044.1811 1767.7027,1044.2538 1767.2787,1044.2538 C1766.164,1044.2538 1765.4491,1043.648 1765.4491,1042.7151 L1765.4491,1042.1214 C1765.4491,1041.1399 1766.1397,1040.4251 1767.0848,1040.4251 C1767.3998,1040.4251 1767.7391,1040.5099 1767.9935,1040.6553 C1768.2601,1040.8007 1768.357,1040.9218 1768.4055,1041.1399 C1768.4418,1041.3702 1768.454,1041.4307 1768.5267,1041.5034 C1768.5994,1041.5882 1768.7326,1041.6367 1768.8538,1041.6367 C1769.0113,1041.6367 1769.1446,1041.564 1769.2415,1041.4429 C1769.3021,1041.358 1769.3263,1041.2611 1769.3263,1041.0188 L1769.3263,1040.2433 C1769.3263,1040.0131 1769.3142,1039.9404 1769.2536,1039.8556 C1769.1688,1039.7102 1769.0234,1039.6254 1768.8538,1039.6254 C1768.6963,1039.6254 1768.5872,1039.686 1768.4661,1039.8556 L1768.3691,1039.8193 Z " fill="#2FA4E7"/><text fill="#343A40" font-family="&quot;Verdana&quot;" font-size="8.5299" lengthAdjust="spacing" textLength="46.5267" x="1784.6074" y="1045.2924">WoundDef</text><line style="stroke:#2FA4E7;stroke-width:0.7754442649434572;" x1="1740.0969" x2="1853.3118" y1="1055.0586" y2="1055.0586"/><line style="stroke:#2FA4E7;stroke-width:0.7754442649434572;" x1="1740.0969" x2="1853.3118" y1="1061.2621" y2="1061.2621"/><ellipse cx="1747.8514" cy="1069.792" rx="2.3263" ry="2.3263" style="stroke:#2683B9;stroke-width:0.7754442649434572;fill:none;"/><text fill="#343A40" font-family="&quot;Verdana&quot;" font-size="8.5299" lengthAdjust="spacing" textLength="87.6252" x="1757.9321" y="1076.1587">updateStats() : Void</text></g><!--MD5=[d028b69556776b8cc77fe2b40436bca4]
+reverse link Character to Player--><g id="link_Character_Player"><path codeLine="37" d="M1839.3538,529.3882 C1839.3538,529.3882 1839.3538,593.0452 1839.3538,593.0452 C1839.3538,593.0452 1856.8013,593.0452 1877.4436,593.0452 " fill="none" id="Character-backto-Player" style="stroke:#2FA4E7;stroke-width:2.3263327948303716;"/><polygon fill="none" points="1833.9257,529.3882,1839.3538,513.8794,1844.7819,529.3882,1833.9257,529.3882" style="stroke:#2FA4E7;stroke-width:2.3263327948303716;"/></g><!--MD5=[1a5e42fe08df60c271858a4aebb9d8af]
+reverse link Player to Human--><g id="link_Player_Human"><path codeLine="51" d="M2025.9567,667.4879 C2025.9567,667.4879 2267.399,667.4879 2267.399,667.4879 C2267.399,667.4879 2267.399,819.5944 2267.399,874.2578 " fill="none" id="Player-backto-Human" style="stroke:#2FA4E7;stroke-width:2.3263327948303716;"/><polygon fill="none" points="2025.9567,672.916,2010.4478,667.4879,2025.9567,662.0598,2025.9567,672.916" style="stroke:#2FA4E7;stroke-width:2.3263327948303716;"/></g><!--MD5=[ff76ca0b1c7ffe9feb00f1ad4d89a49c]
+reverse link Player to Dwarf--><g id="link_Player_Dwarf"><path codeLine="56" d="M1862.1751,734.9515 C1862.1751,734.9515 1761.6775,734.9515 1761.6775,734.9515 C1761.6775,734.9515 1761.6775,820.0193 1761.6775,865.5441 " fill="none" id="Player-backto-Dwarf" style="stroke:#2FA4E7;stroke-width:2.3263327948303716;"/><polygon fill="none" points="1862.1751,729.5234,1877.684,734.9515,1862.1751,740.3796,1862.1751,729.5234" style="stroke:#2FA4E7;stroke-width:2.3263327948303716;"/></g><!--MD5=[8c22972b98ed9e5294ef6ba4dd0dd384]
+reverse link Player to Elf--><g id="link_Player_Elf"><path codeLine="61" d="M1904.4911,772.6591 C1904.4911,772.6591 1904.4911,865.4821 1904.4911,865.4821 " fill="none" id="Player-backto-Elf" style="stroke:#2FA4E7;stroke-width:2.3263327948303716;"/><polygon fill="none" points="1899.063,772.6591,1904.4911,757.1502,1909.9192,772.6591,1899.063,772.6591" style="stroke:#2FA4E7;stroke-width:2.3263327948303716;"/></g><!--MD5=[a289ba5c61c998e1ba009b691539ec4d]
+reverse link Player to Orc--><g id="link_Player_Orc"><path codeLine="66" d="M1975.9638,772.6591 C1975.9638,772.6591 1975.9638,865.4821 1975.9638,865.4821 " fill="none" id="Player-backto-Orc" style="stroke:#2FA4E7;stroke-width:2.3263327948303716;"/><polygon fill="none" points="1970.5357,772.6591,1975.9638,757.1502,1981.3919,772.6591,1970.5357,772.6591" style="stroke:#2FA4E7;stroke-width:2.3263327948303716;"/></g><!--MD5=[60e6b09200e1fa3b443ac1a9d5606bc6]
+reverse link Player to Decorator--><g id="link_Player_Decorator"><path codeLine="72" d="M1993.1477,772.8335 C1993.1477,772.8335 1993.1477,861.3489 1993.1477,861.3489 C1993.1477,861.3489 2050.4918,861.3489 2096.4058,861.3489 " fill="none" id="Player-backto-Decorator" style="stroke:#2FA4E7;stroke-width:2.3263327948303716;"/><polygon fill="none" points="1987.7195,772.8335,1993.1477,757.3247,1998.5758,772.8335,1987.7195,772.8335" style="stroke:#2FA4E7;stroke-width:2.3263327948303716;"/></g><!--MD5=[8995568ee0ccbf09fbdeaf7f62d7720d]
+reverse link Decorator to BoostAtk--><g id="link_Decorator_BoostAtk"><path codeLine="78" d="M2186.9467,945.6405 C2186.9467,945.6405 2186.9467,1029.4544 2186.9467,1029.4544 " fill="none" id="Decorator-backto-BoostAtk" style="stroke:#2FA4E7;stroke-width:2.3263327948303716;"/><polygon fill="none" points="2181.5186,945.6413,2186.9467,930.1316,2192.3748,945.6405,2181.5186,945.6413" style="stroke:#2FA4E7;stroke-width:2.3263327948303716;"/></g><!--MD5=[6b76586c5752bbd21e24709fbd3f306b]
+reverse link Decorator to WoundAtk--><g id="link_Decorator_WoundAtk"><path codeLine="83" d="M2117.1567,945.6405 C2117.1567,945.6405 2117.1567,1029.4544 2117.1567,1029.4544 " fill="none" id="Decorator-backto-WoundAtk" style="stroke:#2FA4E7;stroke-width:2.3263327948303716;"/><polygon fill="none" points="2111.7286,945.6413,2117.1567,930.1316,2122.5848,945.6405,2111.7286,945.6413" style="stroke:#2FA4E7;stroke-width:2.3263327948303716;"/></g><!--MD5=[132af94ac45bffef607d652b525e337d]
+reverse link Decorator to BoostDef--><g id="link_Decorator_BoostDef"><path codeLine="88" d="M2080.7108,927.2617 C2080.7108,927.2617 1977.3829,927.2617 1977.3829,927.2617 C1977.3829,927.2617 1977.3829,991.3103 1977.3829,1029.5893 " fill="none" id="Decorator-backto-BoostDef" style="stroke:#2FA4E7;stroke-width:2.3263327948303716;"/><polygon fill="none" points="2080.7108,921.8336,2096.2197,927.2617,2080.7108,932.6898,2080.7108,921.8336" style="stroke:#2FA4E7;stroke-width:2.3263327948303716;"/></g><!--MD5=[e22b451e3c3bf191ae17b5860814b77f]
+reverse link Decorator to WoundDef--><g id="link_Decorator_WoundDef"><path codeLine="92" d="M2080.8194,924.9354 C2080.8194,924.9354 1835.6704,924.9354 1835.6704,924.9354 C1835.6704,924.9354 1835.6704,990.4914 1835.6704,1029.4149 " fill="none" id="Decorator-backto-WoundDef" style="stroke:#2FA4E7;stroke-width:2.3263327948303716;"/><polygon fill="none" points="2080.8194,919.5073,2096.3283,924.9354,2080.8194,930.3635,2080.8194,919.5073" style="stroke:#2FA4E7;stroke-width:2.3263327948303716;"/></g><!--MD5=[8745611a56d0a59784de31bd240d6211]
+reverse link Character to Enemy--><g id="link_Character_Enemy"><path codeLine="98" d="M1733.6375,529.1106 C1733.6375,529.1106 1733.6375,640.3473 1733.6375,640.3473 C1733.6375,640.3473 1319.6666,640.3473 1164.4304,640.3473 " fill="none" id="Character-backto-Enemy" style="stroke:#2FA4E7;stroke-width:2.3263327948303716;"/><polygon fill="none" points="1728.2094,529.1106,1733.6375,513.6017,1739.0656,529.1106,1728.2094,529.1106" style="stroke:#2FA4E7;stroke-width:2.3263327948303716;"/></g><!--MD5=[12f80ea5fc12175838914be9d46a46bd]
+reverse link Enemy to Vampire--><g id="link_Enemy_Vampire"><path codeLine="106" d="M1179.9237,676.7932 C1179.9237,676.7932 1426.042,676.7932 1426.042,676.7932 C1426.042,676.7932 1426.042,806.774 1426.042,865.4177 " fill="none" id="Enemy-backto-Vampire" style="stroke:#2FA4E7;stroke-width:2.3263327948303716;"/><polygon fill="none" points="1179.9237,682.2213,1164.4149,676.7932,1179.9237,671.3651,1179.9237,682.2213" style="stroke:#2FA4E7;stroke-width:2.3263327948303716;"/></g><!--MD5=[b15ab46dcc025c5e6962d8dc1173acab]
+reverse link Enemy to Werewolf--><g id="link_Enemy_Werewolf"><path codeLine="111" d="M1179.8772,658.958 C1179.8772,658.958 1585.7835,658.958 1585.7835,658.958 C1585.7835,658.958 1585.7835,803.2054 1585.7835,865.4681 " fill="none" id="Enemy-backto-Werewolf" style="stroke:#2FA4E7;stroke-width:2.3263327948303716;"/><polygon fill="none" points="1179.8772,664.3861,1164.3683,658.958,1179.8772,653.5299,1179.8772,664.3861" style="stroke:#2FA4E7;stroke-width:2.3263327948303716;"/></g><!--MD5=[750bfcd784e6ab1a9b32f9be6524cb50]
+reverse link Enemy to Goblin--><g id="link_Enemy_Goblin"><path codeLine="116" d="M1033.1632,658.958 C1033.1632,658.958 595.4117,658.958 595.4117,658.958 C595.4117,658.958 595.4117,803.2054 595.4117,865.4681 " fill="none" id="Enemy-backto-Goblin" style="stroke:#2FA4E7;stroke-width:2.3263327948303716;"/><polygon fill="none" points="1033.1632,653.5299,1048.6721,658.958,1033.1632,664.3861,1033.1632,653.5299" style="stroke:#2FA4E7;stroke-width:2.3263327948303716;"/></g><!--MD5=[51158a5a14e51bcf04c3a5d4dcaaaf5a]
+reverse link Enemy to Merchant--><g id="link_Enemy_Merchant"><path codeLine="121" d="M1033.233,676.7932 C1033.233,676.7932 802.9725,676.7932 802.9725,676.7932 C802.9725,676.7932 802.9725,758.311 802.9725,821.3601 " fill="none" id="Enemy-backto-Merchant" style="stroke:#2FA4E7;stroke-width:2.3263327948303716;"/><polygon fill="none" points="1033.233,671.3651,1048.7418,676.7932,1033.233,682.2213,1033.233,671.3651" style="stroke:#2FA4E7;stroke-width:2.3263327948303716;"/></g><!--MD5=[3b49607319a1c3263587d45e11d6020c]
+reverse link Enemy to Dragon--><g id="link_Enemy_Dragon"><path codeLine="126" d="M1033.0468,695.4039 C1033.0468,695.4039 985.5897,695.4039 985.5897,695.4039 C985.5897,695.4039 985.5897,764.5634 985.5897,821.1608 " fill="none" id="Enemy-backto-Dragon" style="stroke:#2FA4E7;stroke-width:2.3263327948303716;"/><polygon fill="none" points="1033.0468,689.9758,1048.5557,695.4039,1033.0468,700.832,1033.0468,689.9758" style="stroke:#2FA4E7;stroke-width:2.3263327948303716;"/></g><!--MD5=[17eab5224a9132abebee4830630418cf]
+reverse link Dragon to Treasure--><g id="link_Dragon_Treasure"><path codeLine="127" d="M937.5121,975.9635 C937.5121,975.9635 937.5121,1021.0905 937.5121,1021.0905 C937.5121,1021.0905 856.7263,1021.0905 794.241,1021.0905 " fill="none" id="Dragon-backto-Treasure" style="stroke:#2FA4E7;stroke-width:2.3263327948303716;"/><polygon fill="none" points="937.5121,965.8827,934.4103,970.5354,937.5121,975.188,940.6139,970.5354,937.5121,965.8827" style="stroke:#2FA4E7;stroke-width:2.3263327948303716;"/></g><!--MD5=[0cb05c9781fe531cbbcea5c93333d86f]
+reverse link Enemy to Phoenix--><g id="link_Enemy_Phoenix"><path codeLine="138" d="M1106.559,728.468 C1106.559,728.468 1106.559,865.5937 1106.559,865.5937 " fill="none" id="Enemy-backto-Phoenix" style="stroke:#2FA4E7;stroke-width:2.3263327948303716;"/><polygon fill="none" points="1101.1309,728.468,1106.559,712.9592,1111.9871,728.468,1101.1309,728.468" style="stroke:#2FA4E7;stroke-width:2.3263327948303716;"/></g><!--MD5=[aa2c6c00d82a5ebc9340456780ded3ee]
+reverse link Enemy to Troll--><g id="link_Enemy_Troll"><path codeLine="143" d="M1179.9625,695.4039 C1179.9625,695.4039 1266.3005,695.4039 1266.3005,695.4039 C1266.3005,695.4039 1266.3005,810.9497 1266.3005,865.5635 " fill="none" id="Enemy-backto-Troll" style="stroke:#2FA4E7;stroke-width:2.3263327948303716;"/><polygon fill="none" points="1179.9625,700.832,1164.4536,695.4039,1179.9625,689.9758,1179.9625,700.832" style="stroke:#2FA4E7;stroke-width:2.3263327948303716;"/></g><!--MD5=[a58fc3440a9d5f23bb281634f28e0d2a]
+reverse link Item to Treasure--><g id="link_Item_Treasure"><path codeLine="172" d="M517.0213,765.9693 C517.0213,765.9693 683.3603,765.9693 683.3603,765.9693 C683.3603,765.9693 683.3603,929.9758 683.3603,1011.979 " fill="none" id="Item-backto-Treasure" style="stroke:#2FA4E7;stroke-width:2.3263327948303716;"/><polygon fill="none" points="517.0213,771.3974,501.5124,765.9693,517.0213,760.5412,517.0213,771.3974" style="stroke:#2FA4E7;stroke-width:2.3263327948303716;"/></g><!--MD5=[06b875333e4a27a87dc899815fbc841f]
+reverse link Item to Potion--><g id="link_Item_Potion"><path codeLine="179" d="M333.8288,790.4795 C333.8288,790.4795 333.8288,857.4717 333.8288,857.4717 C333.8288,857.4717 232.2843,857.4717 161.0846,857.4717 " fill="none" id="Item-backto-Potion" style="stroke:#2FA4E7;stroke-width:2.3263327948303716;"/><polygon fill="none" points="328.4006,790.4795,333.8288,774.9707,339.2569,790.4795,328.4006,790.4795" style="stroke:#2FA4E7;stroke-width:2.3263327948303716;"/></g><!--MD5=[419097763413107eb0e9f94984e1c707]
+reverse link Item to Compass--><g id="link_Item_Compass"><path codeLine="186" d="M340.8078,790.5749 C340.8078,790.5749 340.8078,893.9176 340.8078,893.9176 C340.8078,893.9176 332.3639,893.9176 320.754,893.9176 " fill="none" id="Item-backto-Compass" style="stroke:#2FA4E7;stroke-width:2.3263327948303716;"/><polygon fill="none" points="335.3796,790.5749,340.8078,775.066,346.2359,790.5749,335.3796,790.5749" style="stroke:#2FA4E7;stroke-width:2.3263327948303716;"/></g><!--MD5=[1773cfb7c50d51e83a5bc0ae515e369a]
+reverse link Item to BarrierSuit--><g id="link_Item_BarrierSuit"><path codeLine="190" d="M414.0872,790.7215 C414.0872,790.7215 414.0872,865.3944 414.0872,865.3944 " fill="none" id="Item-backto-BarrierSuit" style="stroke:#2FA4E7;stroke-width:2.3263327948303716;"/><polygon fill="none" points="408.6591,790.7215,414.0872,775.2126,419.5153,790.7215,408.6591,790.7215" style="stroke:#2FA4E7;stroke-width:2.3263327948303716;"/></g><!--MD5=[782ec04b4fd262ad7a0abd3dac0efb40]
+reverse link Game to Floor--><g id="link_Game_Floor"><path codeLine="198" d="M948.3218,309.2326 C948.3218,309.2326 770.8389,309.2326 770.8389,309.2326 " fill="none" id="Game-backto-Floor" style="stroke:#2FA4E7;stroke-width:2.3263327948303716;"/><polygon fill="#2FA4E7" points="958.4026,309.2326,953.7499,306.1309,949.0973,309.2326,953.7499,312.3344,958.4026,309.2326" style="stroke:#2FA4E7;stroke-width:2.3263327948303716;"/></g><!--MD5=[bbc6ee62d3d47812e486fb9dc1de45ab]
+reverse link Game to Player--><g id="link_Game_Player"><path codeLine="199" d="M1168.5945,435.3571 C1168.5945,435.3571 1168.5945,607.7787 1168.5945,607.7787 C1168.5945,607.7787 1689.7784,607.7787 1877.591,607.7787 " fill="none" id="Game-backto-Player" style="stroke:#2FA4E7;stroke-width:2.3263327948303716;"/><polygon fill="#2FA4E7" points="1168.5945,425.2763,1165.4927,429.929,1168.5945,434.5816,1171.6963,429.929,1168.5945,425.2763" style="stroke:#2FA4E7;stroke-width:2.3263327948303716;"/></g><!--MD5=[2b5caa8ac04299de3efaa784958d6002]
+reverse link Floor to Enemy--><g id="link_Floor_Enemy"><path codeLine="215" d="M733.958,435.3346 C733.958,435.3346 733.958,640.3473 733.958,640.3473 C733.958,640.3473 944.0956,640.3473 1048.7496,640.3473 " fill="none" id="Floor-backto-Enemy" style="stroke:#2FA4E7;stroke-width:2.3263327948303716;"/><polygon fill="none" points="733.958,425.2538,730.8562,429.9065,733.958,434.5592,737.0598,429.9065,733.958,425.2538" style="stroke:#2FA4E7;stroke-width:2.3263327948303716;"/></g><!--MD5=[03b3c695e232651f192b6fd18fc4fcee]
+reverse link Floor to Item--><g id="link_Floor_Item"><path codeLine="216" d="M632.5043,435.3098 C632.5043,435.3098 632.5043,569.0065 632.5043,569.0065 C632.5043,569.0065 562.1909,569.0065 501.3526,569.0065 " fill="none" id="Floor-backto-Item" style="stroke:#2FA4E7;stroke-width:2.3263327948303716;"/><polygon fill="none" points="632.5043,425.229,629.4025,429.8817,632.5043,434.5343,635.6061,429.8817,632.5043,425.229" style="stroke:#2FA4E7;stroke-width:2.3263327948303716;"/></g><!--MD5=[859f464b402f7ec313ac21dcf3bd795c]
+@startuml
+!theme cerulean-outline
+skinparam linetype ortho  
+' left to right direction
+skinparam groupInheritance 0
+scale max 1920 width 
+scale max 1080 height
+
+package "CC3K" #White {
+        Title UML Diagram
+        class Character {
+            - hp : Integer
+            - atk : Integer
+            - def : Integer
+            - xPos : Integer
+            - yPos : Integer
+            - symbol : Character
+
+
+            + setHp(int) : Void
+            + setAtk(int) : Void
+            + setDef(int) : Void
+            + setX(int) : Void
+            + setY(int) : Void
+            + getHp() : Integer
+            + getAtk() : Integer
+            + getDef() : Integer
+            + getX() : Integer
+            + getY() : Integer
+            + getSymbol() : Character
+            + move(Integer, Integer) : Void
+            + attack(Character) : Void
+            + takeDamage(Integer) : Void
+            + isAlive() : Boolean
+        }
+        
+
+            Character <|- - Player
+            class Player {
+                - gold : Integer
+                - hasBarrierSuit : Bool
+                
+                + addGold(Integer)
+                + getGold() : Integer
+                + useGold() : void
+                + updateStats()  : void
+                + usePotion(Potion) : void
+                + getSymbol() : Character
+
+            }
+
+            Player <|-down- Human
+            class Human {
+
+            }
+            
+            Player <|-down- Dwarf
+            class Dwarf {
+                + addGold() : Integer
+            }
+
+            Player <|-down- Elf
+            class Elf {
+                + updateStats() : void 
+            }
+
+            Player <|-down- Orc
+            class Orc {
+                + addGold() : Integer
+            }
+        
+        
+            Player <|- - Decorator
+            class Decorator {
+                # component : Player
+                + updateStats();          
+            }
+            together {
+                Decorator <|- - BoostAtk
+                Class BoostAtk {
+                    + updateStats() : Void
+                }
+
+                Decorator <|- - WoundAtk
+                Class WoundAtk{
+                    + updateStats() : Void
+                }
+
+                Decorator <|- - BoostDef
+                Class BoostDef {
+                    + updateStats() : Void
+                }
+                Decorator <|- - WoundDef
+                Class WoundDef {
+                    + updateStats() : Void
+                }
+            }
+
+            Character <|- - Enemy
+            class Enemy {
+                - hostile : bool
+
+                + isHostile() : bool
+                + makeHostile() : void
+            }
+
+            Enemy <|- - Vampire
+            Class Vampire {
+                + getSymbol() : Character
+            }
+
+            Enemy <|- - Werewolf
+            Class Werewolf {
+                + getSymbol() : Character
+            } 
+
+            Enemy <|- - Goblin
+            Class Goblin {
+                + getSymbol() : Character
+            }
+
+            Enemy <|- - Merchant
+            Class Merchant {
+                + getSymbol() : Character
+            }
+
+            Dragon -up-|>  Enemy
+            Dragon o- - Treasure
+            Class Dragon { 
+                - booty : *Treasure
+
+                + getSymbol() : Character
+                + getHoard() : Hoard
+                + move() : void        
+                + rewardAmount() : Integer
+                + takeDamage(Integer) : Void   
+            }
+
+            Enemy <|- - Phoenix
+            Class Phoenix { 
+                + getSymbol() : Character
+            }
+
+            Troll -up-|>  Enemy
+            Class Troll{ 
+                + getSymbol() : Character
+            }
+
+            Class Merchant { 
+                - hostile : Boolean
+                + isHostile() : Boolean
+                + makeHostile() : Boolean
+                + rewardAmount() : Integer
+                + getSymbol() : Character
+            }
+        
+
+
+        class Item { 
+            - xPos : Integer
+            - yPos : Integer
+            - symbol : Character
+            - guarded : Boolean
+            + getX() : Integer
+            + getY() : Integer
+            + getSymbol() : Character = 0
+            + withinRange(Character) : Boolean
+            + isGuarded() : Boolean
+            + setUnguarded() : Void
+
+        }
+
+        Item <|-down- Treasure
+        class Treasure {
+            -goldAmount : Integer
+            + getSymbol() : Character
+            + getGoldAmount() : Integer            
+        }
+
+        Item <|-down- Potion
+        class Potion {
+            - abilitiesVisible : Boolean
+            + consume() : void
+            + getSymbol() : Character
+        }
+
+        Item <|-down- Compass
+        class Compass {
+            + getSymbol() : Character
+        }
+        Item <|-down- BarrierSuit
+        class BarrierSuit {
+            + getSymbol() : Character
+        }
+    
+
+
+
+        Game *-[norank]- Floor
+        Game *-[norank]- Player
+
+        class Game  {
+            - floor : *Floor
+            - barrierSuitFloor  : Integer
+            - playa : Player *
+            + init(race) : Void
+            + generateFloor() : Floor
+            + move(integer, integer) : Void
+            + attack() : Void
+            + usePotion(): Void
+            + restart() : Void
+            + quit() : Void
+            + operator << (ostream&, Game) : ostream&
+        }
+
+        Floor o- - Enemy
+        Floor o- - Item
+        class Floor {
+            - stairRoomNumber : Integer
+            - visibleStairs : Boolean
+            - items : Vector<Item>
+            - enemies : Vector<Character>
+            + generateFloor() : Void
+            + spawnPlayer(Player) : Void
+            + spawnStairs() : Void
+            + spawnItems() : Void    
+            + spawnEnemies() : Void
+            + generateBarrierSuit() : Void
+            + operator << (ostream&, Floor) : ostream& 
+        }
+
+
+}
+@enduml
+
+@startuml
+
+
+
+skinparam backgroundColor transparent
+skinparam useBetaStyle false
+
+
+
+
+
+
+<style>
+  root {
+    BackgroundColor transparent
+    FontColor #2FA4E7
+    HyperLinkColor #FD7E14
+    LineColor #2683B9
+    LineThickness 1
+    Margin 10
+    Padding 6
+    Shadowing 0.0
+  }
+  node {
+   Padding 15
+   roundcorner 20
+   BackgroundColor transparent
+  }
+  caption {
+    LineThickness 0
+  }
+  footer {
+    LineThickness 0
+  }
+  groupHeader {
+    BackgroundColor #E9ECEF
+    FontColor #033C73
+    FontStyle bold
+  }
+  header {
+    LineThickness 0
+  }
+  referenceHeader {
+    BackgroundColor transparent
+    FontColor #343A40
+    FontStyle bold
+  }
+  separator {
+    BackgroundColor #343A40
+    FontColor transparent
+    FontStyle bold
+  }
+  title {
+	FontSize 20
+	BorderRoundCorner            8
+	BorderThickness 	         1
+	BackgroundColor  transparent
+	FontColor #2FA4E7
+	BorderColor #E9ECEF
+  }
+  nwdiagDiagram {
+	network {
+			FontColor #2FA4E7
+	BorderColor #2FA4E7
+	BackgroundColor transparent    
+		LineColor #2FA4E7
+		LineThickness 1.0
+		FontColor #2683B9
+	}
+	server {
+			FontColor #2FA4E7
+	BorderColor #2FA4E7
+	BackgroundColor transparent
+	}
+	arrow {
+		FontColor #2683B9
+		LineColor #2683B9
+	}
+	group {
+		BackGroundColor #F8F9FA
+		LineColor $LIGHT_DARK
+		LineThickness 2.0
+		Margin 5
+		Padding 5
+	}
+  }
+  ganttDiagram {
+	task {
+			FontColor #2FA4E7
+	BorderColor #2FA4E7
+	BackgroundColor transparent
+		LineColor #2FA4E7
+		Margin 10
+		Padding 6
+	}
+	note {
+		FontColor #033C73
+		LineColor $INFO_DARK
+		BackGroundColor transparent
+	}
+	separator {
+		LineColor #BABDBF
+		BackGroundColor transparent
+		FontColor #BABDBF
+	}
+	milestone {
+		FontColor #033C73
+		FontSize 16
+		FontStyle italic
+		BackGroundColor #E9ECEF
+		LineColor #BABDBF
+	}
+	timeline {
+		BackgroundColor #E9ECEF
+		FontColor #BABDBF
+	}
+	closed {
+		BackgroundColor $WARNING_DARK
+		FontColor #DD5600
+	}
+  }
+</style>
+skinparam defaultFontName       "Verdana"
+skinparam defaultFontSize       12
+skinparam dpi                   100
+skinparam shadowing             false
+skinparam roundcorner           8
+skinparam ParticipantPadding    40
+skinparam BoxPadding            40
+skinparam Padding               5
+skinparam ArrowColor            #868E96
+skinparam stereotype {
+    CBackgroundColor #EDF0F2
+    CBorderColor #BABDBF
+    ABackgroundColor #8FB961
+    ABorderColor $SUCCESS_DARK
+    IBackgroundColor #D2494E
+    IBorderColor $DANGER_DARK
+    EBackgroundColor #E47833
+    EBorderColor $WARNING_DARK
+    NBackgroundColor #35638F
+    NBorderColor $INFO_DARK
+}
+skinparam title {
+	FontColor	                 #2FA4E7
+	BorderColor	                 #BABDBF
+	FontSize	    	         20
+	BorderRoundCorner            8
+	BorderThickness 	         1
+	BackgroundColor              transparent
+}
+
+skinparam legend {
+	BackgroundColor transparent
+	BorderColor #BABDBF
+	FontColor #343A40
+}
+
+skinparam swimlane {
+	BorderColor #033C73
+	BorderThickness 2
+	TitleBackgroundColor  #EDF0F2-#E9ECEF
+	TitleFontColor #2FA4E7
+}
+
+
+skinparam activity {
+		FontColor #2FA4E7
+	BorderColor #2FA4E7
+	BackgroundColor transparent
+	BarColor #73A839
+	StartColor #033C73
+	EndColor #033C73
+	DiamondBackgroundColor transparent
+  	DiamondBorderColor #BABDBF
+	DiamondFontColor #BABDBF
+}
+
+
+skinparam participant {
+		FontColor #2FA4E7
+	BorderColor #2FA4E7
+	BackgroundColor transparent
+	ParticipantBorderThickness 2
+}
+
+
+skinparam actor {
+		FontColor #2FA4E7
+	BorderColor #2FA4E7
+	BackgroundColor transparent
+}
+
+
+skinparam arrow {
+	Thickness 3
+	Color #2FA4E7
+	FontColor #343A40
+}
+
+
+skinparam sequence {
+	BorderColor #2FA4E7
+	TitleFontColor #2FA4E7
+	BackgroundColor transparent
+	StartColor #2FA4E7
+	EndColor #2FA4E7
+	BoxBackgroundColor transparent
+	BoxBorderColor #868E96
+	BoxFontColor #343A40
+	DelayFontColor #343A40
+	LifeLineBorderColor #BABDBF
+	LifeLineBorderThickness 2
+	LifeLineBackgroundColor transparent
+	GroupBorderColor #868E96
+	GroupFontColor #343A40
+	GroupHeaderFontColor #033C73
+	DividerBackgroundColor transparent
+    DividerBorderColor #868E96
+    DividerBorderThickness 2
+    DividerFontColor #343A40
+	ReferenceBackgroundColor transparent
+	ReferenceBorderColor #868E96
+	ReferenceFontColor #343A40
+	ReferenceHeaderFontColor #033C73
+	StereotypeFontColor #2FA4E7
+}
+
+
+skinparam partition {
+	BorderColor #2FA4E7
+	FontColor #2FA4E7
+	BackgroundColor transparent
+}
+
+
+skinparam collections {
+		FontColor #2FA4E7
+	BorderColor #2FA4E7
+	BackgroundColor transparent
+}
+
+
+skinparam control {
+		FontColor #2FA4E7
+	BorderColor #2FA4E7
+	BackgroundColor transparent
+}
+
+
+skinparam entity {
+		FontColor #2FA4E7
+	BorderColor #2FA4E7
+	BackgroundColor transparent
+}
+
+
+skinparam boundary {
+		FontColor #2FA4E7
+	BorderColor #2FA4E7
+	BackgroundColor transparent
+}
+
+
+skinparam agent {
+	BackgroundColor transparent
+	BorderColor #999999
+	FontColor #333333
+}
+
+
+skinparam note {
+	BorderThickness 1
+	BackgroundColor transparent
+	BorderColor #033C73
+	FontColor #033C73
+}
+
+
+skinparam artifact {
+	BackgroundColor transparent
+	BorderColor #868E96
+	FontColor #868E96
+}
+
+
+skinparam component {
+		FontColor #2FA4E7
+	BorderColor #2FA4E7
+	BackgroundColor transparent
+}
+
+
+skinparam interface {
+	BackgroundColor  transparent
+	BorderColor  #C71C22
+	FontColor #343A40
+}
+
+
+skinparam storage {
+	BackgroundColor transparent
+  	BorderColor #DD5600
+	FontColor #DD5600
+}
+
+
+skinparam node {
+	BackgroundColor transparent
+	BorderColor #343A40
+	FontColor #343A40
+}
+
+
+skinparam cloud {
+	BackgroundColor #F2FCFE-#eeeeee
+	BorderColor #F2FCFE
+	FontColor #343A40
+}
+
+
+skinparam database {
+		FontColor #2FA4E7
+	BorderColor #2FA4E7
+	BackgroundColor transparent
+}
+
+
+skinparam class {
+		FontColor #2FA4E7
+	BorderColor #2FA4E7
+	BackgroundColor transparent
+	FontColor #F8F9FA
+	HeaderBackgroundColor #2FA4E7-#2683B9
+	StereotypeFontColor #343A40
+	BorderThickness 1
+	AttributeFontColor #343A40
+	AttributeFontSize 11
+}
+
+
+skinparam object {
+		FontColor #2FA4E7
+	BorderColor #2FA4E7
+	BackgroundColor transparent
+	StereotypeFontColor #343A40
+	BorderThickness 1
+	AttributeFontColor #BABDBF
+	AttributeFontSize 11
+}
+
+
+skinparam usecase {
+		FontColor #2FA4E7
+	BorderColor #2FA4E7
+	BackgroundColor transparent
+	BorderThickness 2
+	StereotypeFontColor #2FA4E7
+}
+
+
+skinparam rectangle {
+		FontColor #2FA4E7
+	BorderColor #2FA4E7
+	BackgroundColor transparent
+	BorderThickness 2
+	StereotypeFontColor #2FA4E7
+}
+
+
+skinparam package {
+	BackgroundColor transparent
+  	BorderColor #2FA4E7
+	FontColor #2FA4E7
+	BorderThickness 2
+}
+
+
+skinparam folder {
+	BackgroundColor transparent
+  	BorderColor #DD5600
+	FontColor #DD5600
+	BorderThickness 2
+}
+
+
+skinparam frame {
+	BackgroundColor transparent
+  	BorderColor #033C73
+	FontColor #033C73
+	BorderThickness 2
+}
+
+
+skinparam state {
+		FontColor #2FA4E7
+	BorderColor #2FA4E7
+	BackgroundColor transparent
+	StartColor #033C73
+	EndColor #033C73
+	AttributeFontColor #BABDBF
+	AttributeFontSize 11
+}
+
+
+skinparam queue {
+		FontColor #2FA4E7
+	BorderColor #2FA4E7
+	BackgroundColor transparent
+}
+
+
+skinparam card {
+	BackgroundColor transparent
+	BorderColor #033C73
+	FontColor #033C73
+}
+
+
+skinparam file {
+	BackgroundColor transparent
+	BorderColor #868E96
+	FontColor #868E96
+}
+
+
+skinparam stack {
+		FontColor #2FA4E7
+	BorderColor #2FA4E7
+	BackgroundColor transparent
+}
+
+
+
+skinparam linetype ortho  
+skinparam groupInheritance 0
+scale max 1920 width 
+scale max 1080 height
+
+package "CC3K" #White {
+        Title UML Diagram
+        class Character {
+            - hp : Integer
+            - atk : Integer
+            - def : Integer
+            - xPos : Integer
+            - yPos : Integer
+            - symbol : Character
+
+
+            + setHp(int) : Void
+            + setAtk(int) : Void
+            + setDef(int) : Void
+            + setX(int) : Void
+            + setY(int) : Void
+            + getHp() : Integer
+            + getAtk() : Integer
+            + getDef() : Integer
+            + getX() : Integer
+            + getY() : Integer
+            + getSymbol() : Character
+            + move(Integer, Integer) : Void
+            + attack(Character) : Void
+            + takeDamage(Integer) : Void
+            + isAlive() : Boolean
+        }
+        
+
+            Character <|- - Player
+            class Player {
+                - gold : Integer
+                - hasBarrierSuit : Bool
+                
+                + addGold(Integer)
+                + getGold() : Integer
+                + useGold() : void
+                + updateStats()  : void
+                + usePotion(Potion) : void
+                + getSymbol() : Character
+
+            }
+
+            Player <|-down- Human
+            class Human {
+
+            }
+            
+            Player <|-down- Dwarf
+            class Dwarf {
+                + addGold() : Integer
+            }
+
+            Player <|-down- Elf
+            class Elf {
+                + updateStats() : void 
+            }
+
+            Player <|-down- Orc
+            class Orc {
+                + addGold() : Integer
+            }
+        
+        
+            Player <|- - Decorator
+            class Decorator {
+                # component : Player
+                + updateStats();          
+            }
+            together {
+                Decorator <|- - BoostAtk
+                Class BoostAtk {
+                    + updateStats() : Void
+                }
+
+                Decorator <|- - WoundAtk
+                Class WoundAtk{
+                    + updateStats() : Void
+                }
+
+                Decorator <|- - BoostDef
+                Class BoostDef {
+                    + updateStats() : Void
+                }
+                Decorator <|- - WoundDef
+                Class WoundDef {
+                    + updateStats() : Void
+                }
+            }
+
+            Character <|- - Enemy
+            class Enemy {
+                - hostile : bool
+
+                + isHostile() : bool
+                + makeHostile() : void
+            }
+
+            Enemy <|- - Vampire
+            Class Vampire {
+                + getSymbol() : Character
+            }
+
+            Enemy <|- - Werewolf
+            Class Werewolf {
+                + getSymbol() : Character
+            } 
+
+            Enemy <|- - Goblin
+            Class Goblin {
+                + getSymbol() : Character
+            }
+
+            Enemy <|- - Merchant
+            Class Merchant {
+                + getSymbol() : Character
+            }
+
+            Dragon -up-|>  Enemy
+            Dragon o- - Treasure
+            Class Dragon { 
+                - booty : *Treasure
+
+                + getSymbol() : Character
+                + getHoard() : Hoard
+                + move() : void        
+                + rewardAmount() : Integer
+                + takeDamage(Integer) : Void   
+            }
+
+            Enemy <|- - Phoenix
+            Class Phoenix { 
+                + getSymbol() : Character
+            }
+
+            Troll -up-|>  Enemy
+            Class Troll{ 
+                + getSymbol() : Character
+            }
+
+            Class Merchant { 
+                - hostile : Boolean
+                + isHostile() : Boolean
+                + makeHostile() : Boolean
+                + rewardAmount() : Integer
+                + getSymbol() : Character
+            }
+        
+
+
+        class Item { 
+            - xPos : Integer
+            - yPos : Integer
+            - symbol : Character
+            - guarded : Boolean
+            + getX() : Integer
+            + getY() : Integer
+            + getSymbol() : Character = 0
+            + withinRange(Character) : Boolean
+            + isGuarded() : Boolean
+            + setUnguarded() : Void
+
+        }
+
+        Item <|-down- Treasure
+        class Treasure {
+            -goldAmount : Integer
+            + getSymbol() : Character
+            + getGoldAmount() : Integer            
+        }
+
+        Item <|-down- Potion
+        class Potion {
+            - abilitiesVisible : Boolean
+            + consume() : void
+            + getSymbol() : Character
+        }
+
+        Item <|-down- Compass
+        class Compass {
+            + getSymbol() : Character
+        }
+        Item <|-down- BarrierSuit
+        class BarrierSuit {
+            + getSymbol() : Character
+        }
+    
+
+
+
+        Game *-[norank]- Floor
+        Game *-[norank]- Player
+
+        class Game  {
+            - floor : *Floor
+            - barrierSuitFloor  : Integer
+            - playa : Player *
+            + init(race) : Void
+            + generateFloor() : Floor
+            + move(integer, integer) : Void
+            + attack() : Void
+            + usePotion(): Void
+            + restart() : Void
+            + quit() : Void
+            + operator << (ostream&, Game) : ostream&
+        }
+
+        Floor o- - Enemy
+        Floor o- - Item
+        class Floor {
+            - stairRoomNumber : Integer
+            - visibleStairs : Boolean
+            - items : Vector<Item>
+            - enemies : Vector<Character>
+            + generateFloor() : Void
+            + spawnPlayer(Player) : Void
+            + spawnStairs() : Void
+            + spawnItems() : Void    
+            + spawnEnemies() : Void
+            + generateBarrierSuit() : Void
+            + operator << (ostream&, Floor) : ostream& 
+        }
+
+
+}
+@enduml
+
+PlantUML version 1.2022.7beta2(Unknown compile time)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: US
+--></g></svg>

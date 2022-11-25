@@ -1,0 +1,46 @@
+make --dry-run --keep-going --print-directory
+make: Entering directory '/u2/tzaryab/cs246/s22/a5/src'
+g++ -std=c++14 -g -Werror=vla -Wall -MMD   -c -o werewolf.o werewolf.cc
+ 
+g++ -std=c++14 -g -Werror=vla -Wall -MMD   -c -o phoenix.o phoenix.cc
+g++ -std=c++14 -g -Werror=vla -Wall -MMD   -c -o vampire.o vampire.cc
+g++ -std=c++14 -g -Werror=vla -Wall -MMD   -c -o troll.o troll.cc
+g++ -std=c++14 -g -Werror=vla -Wall -MMD   -c -o enemy.o enemy.cc
+g++ -std=c++14 -g -Werror=vla -Wall -MMD   -c -o merchant.o merchant.cc
+g++ -std=c++14 -g -Werror=vla -Wall -MMD   -c -o goblin.o goblin.cc
+g++ -std=c++14 -g -Werror=vla -Wall -MMD   -c -o compass.o compass.cc
+g++ -std=c++14 -g -Werror=vla -Wall -MMD   -c -o treasure.o treasure.cc
+ 
+g++ -std=c++14 -g -Werror=vla -Wall -MMD   -c -o barriersuit.o barriersuit.cc
+g++ -std=c++14 -g -Werror=vla -Wall -MMD   -c -o potion.o potion.cc
+ 
+g++ -std=c++14 -g -Werror=vla -Wall -MMD   -c -o factory.o factory.cc
+ 
+g++ -std=c++14 -g -Werror=vla -Wall -MMD   -c -o main.o main.cc
+g++ -std=c++14 -g -Werror=vla -Wall -MMD   -c -o game.o game.cc
+ 
+g++ -std=c++14 -g -Werror=vla -Wall -MMD   -c -o floor.o floor.cc
+ 
+g++ -std=c++14 -g -Werror=vla -Wall -MMD   -c -o character.o character.cc
+g++ -std=c++14 -g -Werror=vla -Wall -MMD   -c -o decorator.o decorator.cc
+ 
+g++ -std=c++14 -g -Werror=vla -Wall -MMD   -c -o item.o item.cc
+g++ -std=c++14 -g -Werror=vla -Wall -MMD   -c -o player.o player.cc
+ 
+g++ -std=c++14 -g -Werror=vla -Wall -MMD   -c -o wounddef.o wounddef.cc
+ 
+g++ -std=c++14 -g -Werror=vla -Wall -MMD   -c -o woundatk.o woundatk.cc
+ 
+g++ -std=c++14 -g -Werror=vla -Wall -MMD   -c -o boostatk.o boostatk.cc
+ 
+g++ -std=c++14 -g -Werror=vla -Wall -MMD   -c -o boostdef.o boostdef.cc
+ 
+g++ -std=c++14 -g -Werror=vla -Wall -MMD   -c -o dwarf.o dwarf.cc
+g++ -std=c++14 -g -Werror=vla -Wall -MMD   -c -o human.o human.cc
+ 
+g++ -std=c++14 -g -Werror=vla -Wall -MMD   -c -o elf.o elf.cc
+ 
+g++ -std=c++14 -g -Werror=vla -Wall -MMD   -c -o orc.o orc.cc
+g++ -std=c++14 -g -Werror=vla -Wall -MMD werewolf.o phoenix.o vampire.o troll.o enemy.o merchant.o goblin.o compass.o treasure.o barriersuit.o potion.o  factory.o main.o game.o floor.o chamber.o character.o decorator.o item.o player.o wounddef.o woundatk.o boostatk.o boostdef.o dwarf.o human.o elf.o orc.o -o cc3k
+make: Leaving directory '/u2/tzaryab/cs246/s22/a5/src'
+ 
